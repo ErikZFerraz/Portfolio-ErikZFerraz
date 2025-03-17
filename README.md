@@ -38,6 +38,7 @@ Estou comprometido com um processo contínuo de crescimento e sempre em busca de
  | :------:      | :------: |
  | Introdução ao MongoDB - Cursando | MongoDB |
  | Google Cloud Foundations | GoogleCloud |
+ | Emprendedorismo | inovacps |
 
 <br>
 
