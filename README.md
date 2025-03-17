@@ -89,60 +89,55 @@ A solução proposta consiste no desenvolvimento de um sistema visualmente atrae
 <h1></h1>
 
 ### ⚒️ Tecnologias Utilizadas
-<div style="display: flex; align-items: center;">
-  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <span>HTML</span>
-</div>
+
 <div>
-  <ul>
-    <li><b>Utilizada para a estruturação da página web.</b></li>
-  </ul>
+  <span>
+    <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><b>HTML</b> - </img>
+  </span>
+  <span>
+    Utilizada para a estruturação da página web.
+  </span>
 </div>
 <br>
 
-<div style="display: flex; align-items: center;">
-  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <span>CSS</span>
-</div>
 <div>
-  <ul>
-    <li><b>Utilizada para a estilização da página web.</b></li>
-  </ul>
+  <span>
+    <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><b>CSS</b> - </img>
+  </span>
+  <span>
+    Utilizada para a estilização da página web.
+  </span>
 </div>
 <br>
 
-<div style="display: flex; align-items: center;">
-  <img align="center" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <span>JavaScript</span>
-</div>
 <div>
-  <ul>
-    <li><b>Utilizada para o desenvolvimento dos sistemas.</b></li>
-  </ul>
+  <span>
+    <img align="center" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"><b>JavaScript</b> - </img>
+  </span>
+  <span>
+    Utilizada para o desenvolvimento dos sistemas.
+  </span>
 </div>
 <br>
 
-<div style="display: flex; align-items: center;">
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <span>Python</span>
-</div>
 <div>
-  <ul>
-    <li><b>Utilizada para a construção de gráficos e hospedagem utilizando Flask.</b></li>
-  </ul>
+  <span>
+    <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><b>Python</b> - </img>
+  </span>
+  <span>
+    Utilizada para a construção de gráficos e hospedagem utilizando Flask.
+  </span>
 </div>
 <br>
 
-<div style="display: flex; align-items: center;">
-  <img align="center" alt="Heroku" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original-wordmark.svg">
-  <span>Heroku</span>
-</div>
 <div>
-  <ul>
-    <li><b>Utilizada para o deploy e gerenciamento da aplicação web.</b></li>
-  </ul>
+  <span>
+    <img align="center" alt="Heroku" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original-wordmark.svg"><b>Heroku</b> - </img>
+  </span>
+  <span>
+    Utilizada para o deploy e gerenciamento da aplicação web.
+  </span>
 </div>
-
 
 <h1></h1>
 
@@ -178,8 +173,8 @@ Nesse projeto, fui responsável pela estruturação e estilização das páginas
 </ul>
 
 <br/>
-<h1> </h1>
-<br/>
+
+<h1></h1>
 
 ### Sistema de Assistente Virtual para Respostas Automáticas - 2023-2 (2° Semestre)
 
@@ -197,64 +192,59 @@ Como solução, foi desenvolvido um **assistente virtual** que utiliza **Java** 
 
 ### ⚒️ Tecnologias Utilizadas
 
-<div style="display: flex; align-items: center;">
-  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <span>Java</span>
-</div>
 <div>
-  <ul>
-    <li><b>Utilizada para o desenvolvimento dos sistemas.</b></li>
-  </ul>
+  <span>
+    <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"><b>Java</b> - </img>
+  </span>
+  <span>
+    Utilizada para o desenvolvimento dos sistemas.
+  </span>
 </div>
 <br>
 
-<div style="display: flex; align-items: center;">
-  <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <span>MySQL</span>
-</div>
 <div>
-  <ul>
-    <li><b>Utilizada para gerenciamento e armazenamento de dados.</b></li>
-  </ul>
+  <span>
+    <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"><b>MySQL</b> - </img>
+  </span>
+  <span>
+    Utilizada para gerenciamento e armazenamento de dados.
+  </span>
 </div>
 <br>
 
-<div style="display: flex; align-items: center;">
-  <img align="center" alt="NetBeans" height="40" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png">
-  <span>NetBeans IDE</span>
-</div>
 <div>
-  <ul>
-    <li><b>Utilizada como interface de desenvolvimento para o projeto.</b></li>
-  </ul>
+  <span>
+    <img align="center" alt="NetBeans" height="40" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png"><b>NetBeans IDE</b> - </img>
+  </span>
+  <span>
+    Utilizada como interface de desenvolvimento para o projeto.
+  </span>
 </div>
 <br>
 
-<div style="display: flex; align-items: center;">
-  <img align="center" alt="Eclipse" height="40" width="40" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png">
-  <span>Eclipse</span>
-</div>
 <div>
-  <ul>
-    <li><b>Utilizado como ambiente de desenvolvimento para o projeto.</b></li>
-  </ul>
+  <span>
+    <img align="center" alt="Eclipse" height="40" width="40" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png"><b>Eclipse</b> - </img>
+  </span>
+  <span>
+    Utilizado como ambiente de desenvolvimento para o projeto.
+  </span>
 </div>
 <br>
 
-<div style="display: flex; align-items: center;">
-  <img align="center" alt="Local Hosting" height="40" width="40" src="https://static.thenounproject.com/png/808277-512.png">
-  <span>Hospedagem Local</span>
-</div>
 <div>
-  <ul>
-    <li><b>Utilizado para o desenvolvimento e execução local da aplicação.</b></li>
-  </ul>
+  <span>
+    <img align="center" alt="Local Hosting" height="40" width="40" src="https://static.thenounproject.com/png/808277-512.png"><b>Hospedagem Local</b> - </img>
+  </span>
+  <span>
+    Utilizado para o desenvolvimento e execução local da aplicação.
+  </span>
 </div>
-<br>
+
 
 <h1></h1>
 
-### 💡 Contribuições Pessoais
+### 💡Contribuições Pessoais
 
 Durante o desenvolvimento, fui responsável pela implementação da **lógica do assistente virtual** em **Java**, que processa as perguntas dos usuários e encontra as respostas nos documentos fornecidos. Também fui responsável pela integração entre o sistema de leitura de documentos e a parte de resposta, garantindo que as consultas ao documento fossem eficientes. <br>
 
@@ -291,7 +281,6 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 
 <br/>
 <h1> </h1>
-<br/>
 
 ### Em 2023-1 - Sistema Web de Gerenciamento de Vendas(3° Semestre)
 
