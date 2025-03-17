@@ -36,9 +36,9 @@ Estou comprometido com um processo contínuo de crescimento e sempre em busca de
 
  |   Curso  |    Plataforma de Ensino    |
  | :------:      | :------: |
- | Introdução ao MongoDB - Cursando | MongoDB |
+ | Introdução ao MongoDB | MongoDB |
  | Google Cloud Foundations | GoogleCloud |
- | Emprendedorismo | inovacps |
+ | Empreendedorismo | inovacps |
 
 <br>
 
@@ -231,7 +231,7 @@ Como solução, foi desenvolvido um **assistente virtual** que utiliza **Java** 
 <br>
 
 <div style="display: flex; align-items: center;">
-  <img align="center" alt="Eclipse" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Eclipse-Logo.svg/120px-Eclipse-Logo.svg.png">
+  <img align="center" alt="Eclipse" height="40" width="40" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png">
   <span>Eclipse</span>
 </div>
 <div>
@@ -242,14 +242,15 @@ Como solução, foi desenvolvido um **assistente virtual** que utiliza **Java** 
 <br>
 
 <div style="display: flex; align-items: center;">
-  <img align="center" alt="Local Hosting" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Localhost_logo.svg/1024px-Localhost_logo.svg.png">
+  <img align="center" alt="Local Hosting" height="40" width="40" src="https://static.thenounproject.com/png/808277-512.png">
   <span>Hospedagem Local</span>
 </div>
 <div>
   <ul>
-    <li><b>Utilizada para o desenvolvimento e execução local da aplicação.</b></li>
+    <li><b>Utilizado para o desenvolvimento e execução local da aplicação.</b></li>
   </ul>
 </div>
+<br>
 
 <h1></h1>
 
