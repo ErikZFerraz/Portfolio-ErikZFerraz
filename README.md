@@ -82,7 +82,7 @@ Neste desafio proposto pela escola, com a orientação do professor Jean Carlos 
 
 A solução proposta consiste no desenvolvimento de um sistema visualmente atraente, que seja fácil de utilizar e que permita o registro e acompanhamento das ordens de serviço de forma organizada. O projeto será construído utilizando as habilidades e conhecimentos adquiridos ao longo do curso, com o objetivo de implementar uma solução prática e funcional.
 
-> Acesse o repositório desse projeto clicando [aqui!](https://github.com/ErikZFerraz/API_MirageGroup)
+> Acesse o repositório desse projeto clicando <a href="https://github.com/ErikZFerraz/API_MirageGroup" target="_blank">aqui!</a>
 
 ![Descrição da Imagem](https://github.com/ErikZFerraz/API_MirageGroup/blob/master/docs/mvp-sprint4.gif)
 
@@ -184,7 +184,7 @@ Neste desafio proposto pela Fatec, o cliente foi o professor **Giuliano Bertoti*
 
 Como solução, foi desenvolvido um **assistente virtual** que utiliza **Java** para processar as perguntas e buscar as respostas dentro de um documento estruturado. A aplicação foi projetada para ser fácil de usar, com um design simples e claro, permitindo que o usuário obtenha respostas rápidas. O sistema também deveria ser modular, permitindo a adição de novos documentos e atualizações no futuro.
 
-> Acesse o repositório desse projeto clicando [aqui!](https://github.com/ErikZFerraz/Code-Wave-2-API)
+> Acesse o repositório desse projeto clicando <a href="https://github.com/ErikZFerraz/Code-Wave-2-API" target="_blank">aqui!</a>
 
 ![Protótipo do Projeto](https://raw.githubusercontent.com/ErikZFerraz/Code-Wave-2-API/main/Front-end/src/to_readme/PROTOTIPO.png)
 
