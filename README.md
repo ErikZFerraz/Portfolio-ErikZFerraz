@@ -53,6 +53,8 @@ Estou comprometido com um processo contínuo de crescimento e sempre em busca de
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ![html](https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -60,9 +62,12 @@ Estou comprometido com um processo contínuo de crescimento e sempre em busca de
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -288,8 +293,7 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 
 Este é um projeto acadêmico sobre Sistema de Gerenciamento e analise das vendas de forma ampla e detalhada, que possui como objetivo criar uma aplicação que tem como objetivo apresentar um dashboard com base em informações fornecidas de um arquivo excel (.xlsx), onde um vendedor cadastrado pode visualizar suas estatísticas de vendas e o administrador recebe uma visão geral, tanto das vendas em geral, como de um vendedor específico.
 
-
-[Clique aqui](https://github.com/Code-Lotus/api-3) para acessar o repositório do projeto.
+> Acesse o repositório desse projeto clicando [aqui!](https://github.com/Code-Lotus/api-3)
 
 <br>
 
