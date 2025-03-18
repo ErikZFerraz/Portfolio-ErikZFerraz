@@ -74,9 +74,9 @@ Estou comprometido com um processo contínuo de crescimento e sempre em busca de
 
 <span id='catalogo'>
 
-### Sistema de Reporte para o Técnico de Computadores - 2022-2 (1° Semestre)
+# Sistema de Reporte para o Técnico de Computadores - 2022-2 (1° Semestre)
 
-### 📋 Desafio (Problema)
+## 📋 Desafio (Problema)
 
 Neste desafio proposto pela escola, com a orientação do professor Jean Carlos Lourenço Costa, o problema identificado foi a necessidade de um sistema para controle de ordens de serviço, com foco na automação do processo de reporte de equipamentos com mau funcionamento, tanto em relação a hardware quanto a software. Este sistema web visa facilitar a gestão e o acompanhamento das solicitações de reparo, visando otimizar o trabalho dos técnicos e melhorar a eficiência do atendimento.
 
@@ -176,9 +176,9 @@ Nesse projeto, fui responsável pela estruturação e estilização das páginas
 
 <h1></h1>
 
-### Sistema de Assistente Virtual para Respostas Automáticas - 2023-2 (2° Semestre)
+# Sistema de Assistente Virtual para Respostas Automáticas - 2023-2 (2° Semestre)
 
-### 📋 Desafio (Problema)
+## 📋 Desafio (Problema)
 
 Neste desafio proposto pela Fatec, o cliente foi o professor **Giuliano Bertoti**. O problema estava relacionado à dificuldade na automação da resposta a perguntas frequentes em um contexto específico, baseado em documentos. A necessidade surgiu de criar um sistema capaz de responder automaticamente às perguntas, utilizando um documento acessado pelo assistente virtual. A solução deveria envolver o uso de tecnologias robustas para garantir que o sistema fosse eficiente, escalável e fácil de utilizar.
 
@@ -282,8 +282,9 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 <br/>
 <h1> </h1>
 
-### Em 2023-1 - Sistema Web de Gerenciamento de Vendas(3° Semestre)
+# Sistema Web de Gerenciamento de Vendas - 2024-1 (3° Semestre)
 
+## 📋 Desafio (Problema)
 
 Este é um projeto acadêmico sobre Sistema de Gerenciamento e analise das vendas de forma ampla e detalhada, que possui como objetivo criar uma aplicação que tem como objetivo apresentar um dashboard com base em informações fornecidas de um arquivo excel (.xlsx), onde um vendedor cadastrado pode visualizar suas estatísticas de vendas e o administrador recebe uma visão geral, tanto das vendas em geral, como de um vendedor específico.
 
@@ -378,7 +379,7 @@ Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-e
 <hr>
 <br>
 
-# Sistema de Integração Logística para a JJM Log - 2024 (4º Semestre)
+# Sistema de Integração Logística para a JJM Log - 2024-2 (4º Semestre)
 
 ## 📋 Desafio (Problema)
 
