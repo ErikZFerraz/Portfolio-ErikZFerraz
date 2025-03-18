@@ -32,7 +32,7 @@ Estou comprometido com um processo contínuo de crescimento e sempre em busca de
 
 <div align="center">
   
-## Cursos
+##  📚Cursos☕
 
  |   Curso  |    Plataforma de Ensino    |
  | :------:      | :------: |
