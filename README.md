@@ -1,11 +1,16 @@
 <div align="center">
   
   # Portfólio de Erik Zanetti Ferraz
-
+<span id="topo"></span> 
 <p align="center">
   <a href ="#introducao"> Introdução </a>  •
   <a href ="#contatos"> Contatos </a>  • 
+  <a href ="#1"> Sistema de Reporte para o Técnico </a>  • 
+  <a href ="#2"> Assistente Virtual </a>  • 
+  <a href ="#3"> Sistema Web Gerenciamento de Vendas </a>  • 
+  <a href ="#4"> Sistema de Integração Logística para a JJM Log </a>  • 
 </p>
+
 
 <span id='introducao'>
 
@@ -26,8 +31,6 @@ Estou comprometido com um processo contínuo de crescimento e sempre em busca de
 </div>
 
 
-
-
 <br>
 
 <div align="center">
@@ -40,14 +43,11 @@ Estou comprometido com um processo contínuo de crescimento e sempre em busca de
  | Google Cloud Foundations | GoogleCloud |
  | Empreendedorismo | inovacps |
 
-<br>
-
+<span id='contatos'>
 <h2 align='center'>📞 Contatos 📞</h2>
 
 <a href = "https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "https://github.com/ErikZFerraz/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-
-<br>
 
 <h2 align='center'>💻 Meus Principais Conhecimentos 💻</h2>
 
@@ -77,7 +77,7 @@ Estou comprometido com um processo contínuo de crescimento e sempre em busca de
 
 <h2 align='center'>💻 Meus Projetos 💻</h2>
 
-<span id='catalogo'>
+<span id='1'>
 
 # Sistema de Reporte para o Técnico de Computadores - 2022-2 (1° Semestre)
 
@@ -177,8 +177,8 @@ Nesse projeto, fui responsável pela estruturação e estilização das páginas
   </li>
 </ul>
 
-<br/>
-
+→ [Voltar ao topo](#topo)
+<span id='2'>
 <h1></h1>
 
 # Sistema de Assistente Virtual para Respostas Automáticas - 2023-2 (2° Semestre)
@@ -284,8 +284,9 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
   </li>
 </ul>
 
-<br/>
-<h1> </h1>
+→ [Voltar ao topo](#topo)
+<span id='3'>
+<h1></h1>
 
 # Sistema Web de Gerenciamento de Vendas - 2024-1 (3° Semestre)
 
@@ -380,8 +381,10 @@ Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-e
 * <b>Resiliência</b> -  Ao me deparar com dificuldades na adaptação à linguagem JavaScript, especialmente ao lidar com padrões de microserviços, busquei aprimorar minhas habilidades por meio de tutoriais práticos e revisões de código.
 
 <br>
-<hr>
-<br>
+
+→ [Voltar ao topo](#topo)
+<span id='4'>
+<h1></h1>
 
 # Sistema de Integração Logística para a JJM Log - 2024-2 (4º Semestre)
 
