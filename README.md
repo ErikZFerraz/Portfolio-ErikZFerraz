@@ -2,17 +2,13 @@
   
   # Portfólio de Erik Zanetti Ferraz
 <span id="topo"></span> 
-<p align="center">
-  <a href ="#introducao"> Introdução </a>  •
-  <a href ="#contatos"> Contatos </a>  • 
-  <a href ="#1"> Sistema de Reporte para o Técnico </a>  • 
-  <a href ="#2"> Assistente Virtual </a>  • 
-  <a href ="#3"> Sistema Web Gerenciamento de Vendas </a>  • 
-  <a href ="#4"> Sistema de Integração Logística para a JJM Log </a>  • 
+<p align="center" dir="auto"> 
+  <a href="#contatos">Contatos</a> |
+  <a href="#1">Sistema de Reporte para o Técnico</a> |
+  <a href="#2">Assistente Virtual</a> |
+  <a href="#3">Sistema Web Gerenciamento de Vendas</a> |
+  <a href="#4">Sistema de Integração Logística para a JJM Log</a>
 </p>
-
-
-<span id='introducao'>
 
 <h2 align='center'>👨‍💻 Introdução 👨‍💻</h2>
    <img src="images/ErikZFerraz.png" width="200" height="200" align="left" style="margin-right: 15px; margin-bottom: 10px;"/>
