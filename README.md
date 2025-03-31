@@ -7,7 +7,8 @@
   <a href="#1">Sistema de Reporte para o Técnico</a> |
   <a href="#2">Assistente Virtual</a> |
   <a href="#3">Sistema Web Gerenciamento de Vendas</a> |
-  <a href="#4">Sistema de Integração Logística para a JJM Log</a>
+  <a href="#4">Sistema de Integração Logística para a JJM Log</a> |
+  <a href="#5">Sistema de Gerenciamento de Reembolsos para a GSW</a>
 </p>
 
 <h2 align='center'>👨‍💻 Introdução 👨‍💻</h2>
@@ -191,7 +192,7 @@ Como solução, foi desenvolvido um **assistente virtual** que utiliza **Java** 
 
 <h1></h1>
 
-### ⚒️ Tecnologias Utilizadas
+### 👨‍💻 Tecnologias Utilizadas
 
 <div>
   <span>
@@ -292,13 +293,11 @@ Este é um projeto acadêmico sobre Sistema de Gerenciamento e analise das venda
 
 > Acesse o repositório desse projeto clicando [aqui!](https://github.com/Code-Lotus/api-3)
 
-<br>
+![Descrição da Imagem](https://raw.githubusercontent.com/DriftOps/API-IV/main/IMG/Proto.gif)
 
- <img src="images/Victor Henrique.png" width=250 alt="Foto">
+---
 
-<br>
-
-### Tecnologias utilizadas
+## ⚒️ Tecnologias Utilizadas
 
 <div>
   <span>
@@ -354,23 +353,23 @@ Este é um projeto acadêmico sobre Sistema de Gerenciamento e analise das venda
   </span>
 </div>
 
-<br>
+---
 
-### Contribuições pessoais
+## 💡 Contribuições Pessoais
 
 Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-end quanto para o front-end da aplicação. No back-end, desempenhei um papel ativo em tarefas relacionadas à exibição de informações, como a configuração e o gerenciamento do registro de usuários utilizando o JavaScript. Além disso, trabalhei na implementação de funcionalidades para proporcionar uma experiência de usuário fluida e intuitiva. No front-end utilizei o React Native, participei da estilização da aplicação e assegurei sua responsividade. Ao colaborar em ambas as áreas, integrei efetivamente as diferentes partes do sistema, garantindo sua coesão como um todo.
 
-<br>
+---
 
-### Hard Skills
+## 🛠️ Hard Skills
 
 * Desenvolvimento utlizando a linguagem JavaScript - Realizo com auxílio
 * Elaboração do front-end utilizando React Native - Realizo com autonomia
 * Modelagem do banco de dados utilizando PostgreSQL - Realizo com autonomia
 
-<br>
+---
 
-### Soft Skills
+## 🧠 Soft Skills
 
 * <b>Colaboração</b> - Durante o desenvolvimento da responsividade no front-end, trabalhei em estreita colaboração com um colega para resolver um problema crítico na renderização de componentes em diferentes dispositivos. Compartilhamos conhecimentos sobre React Native e testamos juntos várias abordagens até alcançar uma solução funcional, o que resultou em uma interface adaptável e eficiente para os usuários.
 * <b>Gestão do tempo</b> - Utilizei técnicas de organização e priorização para otimizar meu tempo de trabalho, garantindo o cumprimento dos prazos e entregas do projeto de maneira eficaz.
@@ -483,3 +482,117 @@ Eu também participei da definição das funcionalidades do sistema, que inclui 
 - **Comunicação**: Mantive um canal de comunicação aberto com a equipe e com o cliente, garantindo que as expectativas fossem atendidas e alinhadas ao longo do desenvolvimento do projeto.
 
 ---
+
+→ [Voltar ao topo](#topo)
+<span id='5'>
+<h1></h1>
+
+# Sistema de Gerenciamento de Reembolsos - DriftOps - 2025-1 (5º Semestre)
+
+## 📋 Desafio (Problema)
+
+Este projeto, desenvolvido por alunos do 5º Semestre de Análise e Desenvolvimento de Sistemas da FATEC Jessen Vidal, tem como objetivo criar um aplicativo móvel para gerenciar reembolsos de despesas. O sistema visa solucionar desafios comuns enfrentados pelas empresas na gestão de reembolsos, como a perda de comprovantes, falta de transparência nos gastos e processos de aprovação lentos.
+
+A proposta é desenvolver uma solução ágil, eficaz e de fácil utilização, que permita o controle, monitoramento e aprovação de reembolsos de forma mais transparente e eficiente, tanto para os colaboradores quanto para a organização. O projeto foi desenvolvido para a empresa **GSW**, com a metodologia **Scrum** aplicada durante o desenvolvimento.
+
+> Acesse o repositório deste projeto clicando [aqui!](https://github.com/DriftOps/API-V)
+
+![Descrição da Imagem](https://raw.githubusercontent.com/DriftOps/API-IV/main/IMG/Proto.gif)
+
+---
+
+## ⚒️ Tecnologias Utilizadas
+
+<div>
+  <span>
+    <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"><b>TypeScript</b> - </img>
+  </span>
+  <span>
+    Utilizado para garantir a segurança e robustez do código, além de facilitar a manutenção a longo prazo.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><b>React Native</b> - </img>
+  </span>
+  <span>
+    Utilizado para o desenvolvimento do aplicativo móvel, proporcionando uma navegação interativa e fluida.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="Expo Go" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg"><b>Expo Go</b> - </img>
+  </span>
+  <span>
+    Utilizado para facilitar o desenvolvimento do aplicativo móvel, proporcionando uma experiência de desenvolvimento ágil e eficiente.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"><b>Figma</b> - </img>
+  </span>
+  <span>
+    Utilizado para design e prototipação das interfaces, garantindo uma melhor experiência do usuário.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="Slack" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg"><b>Slack</b> - </img>
+  </span>
+  <span>
+    Utilizado para comunicação entre a equipe de desenvolvimento, facilitando o compartilhamento de informações e decisões rápidas.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><b>MySQL</b> - </img>
+  </span>
+  <span>
+    Utilizado como banco de dados relacional para armazenamento de informações dos reembolsos e usuários.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"><b>MongoDB</b> - </img>
+  </span>
+  <span>
+    Utilizado para armazenar dados não relacionais, como logs de atividades e dados temporários.
+  </span>
+</div>
+
+---
+
+## 💡 Contribuições Pessoais
+
+Neste projeto, atuei como **Scrum Master**, coordenando o desenvolvimento do sistema e garantindo que as práticas ágeis de Scrum fossem seguidas corretamente. Fui responsável por facilitar as reuniões diárias, planejar as sprints e gerenciar a comunicação entre os membros da equipe. Além disso, também participei da implementação do **frontend** utilizando **React Native** e **TypeScript**, criando uma interface dinâmica e responsiva, e da definição das funcionalidades essenciais, como o gerenciamento de reembolsos e a visualização de históricos.
+
+---
+
+## 🛠️ Hard Skills
+
+- **Gestão de Projetos com Scrum** - Realizo com autonomia.
+- **Desenvolvimento Frontend com React Native e TypeScript** - Realizo com autonomia.
+- **Prototipação e Design de Interfaces com Figma** - Realizo com autonomia.
+- **Controle de versão com GitHub** - Realizo com autonomia.
+
+---
+
+## 🧠 Soft Skills
+
+- **Liderança e Gestão de Equipe**: Como Scrum Master, fui responsável pela organização e motivação da equipe, garantindo que os objetivos fossem cumpridos dentro dos prazos estabelecidos.
+- **Comunicação Eficaz**: Mantive uma comunicação clara e eficiente com a equipe, facilitando o fluxo de informações e garantindo que todos estivessem alinhados quanto aos objetivos do projeto.
+- **Resolução de Problemas**: Enfrentei e resolvi desafios durante o desenvolvimento, buscando soluções criativas para garantir que o produto final atendesse às expectativas do cliente.
+
+> [Voltar ao topo](#índice)
