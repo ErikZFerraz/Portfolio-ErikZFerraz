@@ -11,7 +11,7 @@
   <a href="#5">Sistema de Gerenciamento de Reembolsos para a GSW</a>
 </p>
 
-<h2 align='center'>👨‍💻 Introdução 👨‍💻</h2>
+<h2 align='center'>🌐 Introdução 🌐</h2>
    <img src="images/ErikZFerraz.png" width="200" height="200" align="left" style="margin-right: 15px; margin-bottom: 10px;"/>
   <p style="text-align: justify;">
     Atualmente, sou estudante do 5º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, em São José dos Campos. Minha paixão pela tecnologia começou especialmente na criação de websites, softwares e jogos.
@@ -90,7 +90,7 @@ A solução proposta consiste no desenvolvimento de um sistema visualmente atrae
 
 <h1></h1>
 
-### ⚒️ Tecnologias Utilizadas
+### 🌐 Tecnologias Utilizadas
 
 <div>
   <span>
@@ -174,7 +174,7 @@ Nesse projeto, fui responsável pela estruturação e estilização das páginas
   </li>
 </ul>
 
-→ [Voltar ao topo](#topo)
+> [Voltar ao topo](#topo)
 <span id='2'>
 <h1></h1>
 
@@ -192,7 +192,7 @@ Como solução, foi desenvolvido um **assistente virtual** que utiliza **Java** 
 
 <h1></h1>
 
-### 👨‍💻 Tecnologias Utilizadas
+### 🌐 Tecnologias Utilizadas
 
 <div>
   <span>
@@ -281,7 +281,7 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
   </li>
 </ul>
 
-→ [Voltar ao topo](#topo)
+> [Voltar ao topo](#topo)
 <span id='3'>
 <h1></h1>
 
@@ -297,7 +297,7 @@ Este é um projeto acadêmico sobre Sistema de Gerenciamento e analise das venda
 
 ---
 
-## ⚒️ Tecnologias Utilizadas
+## 🌐 Tecnologias Utilizadas
 
 <div>
   <span>
@@ -377,7 +377,7 @@ Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-e
 
 <br>
 
-→ [Voltar ao topo](#topo)
+> [Voltar ao topo](#topo)
 <span id='4'>
 <h1></h1>
 
@@ -395,7 +395,7 @@ A solução proposta é a criação de uma plataforma visualmente intuitiva e de
 
 ---
 
-## ⚒️ Tecnologias Utilizadas
+## 🌐 Tecnologias Utilizadas
 
 <div>
   <span>
@@ -481,8 +481,6 @@ Eu também participei da definição das funcionalidades do sistema, que inclui 
 - **Disposição para aprender**: Como estava aprendendo novas tecnologias, me dediquei a estudar e aplicar o que fosse necessário, garantindo minha contribuição no projeto.
 - **Comunicação**: Mantive um canal de comunicação aberto com a equipe e com o cliente, garantindo que as expectativas fossem atendidas e alinhadas ao longo do desenvolvimento do projeto.
 
----
-
 → [Voltar ao topo](#topo)
 <span id='5'>
 <h1></h1>
@@ -501,7 +499,7 @@ A proposta é desenvolver uma solução ágil, eficaz e de fácil utilização, 
 
 ---
 
-## ⚒️ Tecnologias Utilizadas
+## 🌐 Tecnologias Utilizadas
 
 <div>
   <span>
@@ -595,4 +593,4 @@ Neste projeto, atuei como **Scrum Master**, coordenando o desenvolvimento do sis
 - **Comunicação Eficaz**: Mantive uma comunicação clara e eficiente com a equipe, facilitando o fluxo de informações e garantindo que todos estivessem alinhados quanto aos objetivos do projeto.
 - **Resolução de Problemas**: Enfrentei e resolvi desafios durante o desenvolvimento, buscando soluções criativas para garantir que o produto final atendesse às expectativas do cliente.
 
-> [Voltar ao topo](#índice)
+> [Voltar ao topo](#topo)
