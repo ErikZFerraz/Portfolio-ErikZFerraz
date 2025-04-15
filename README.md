@@ -5,9 +5,8 @@
 <p align="center" dir="auto"> 
   | <a href="#contatos">Contatos</a> |
   <a href="#1">Sistema de Reporte para o Técnico</a> |
-  <a href="#2">Assistente Virtual</a> |
-
   <!---
+  <a href="#2">Assistente Virtual</a> |
   <a href="#3">Sistema Web Gerenciamento de Vendas</a> |
   <a href="#4">Sistema de Integração Logística para a JJM Log</a> |
   <a href="#5">Sistema de Gerenciamento de Reembolsos para a GSW</a>
@@ -19,7 +18,7 @@
   <p style="text-align: justify;">
     Atualmente, sou estudante do 5º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, em São José dos Campos. Minha paixão pela tecnologia começou especialmente na criação de websites, softwares e jogos.
 
-Meu primeiro contato com programação foi ainda criança, quando criei mods para jogos de computador como Counter-Strike 1.6, GTA: San Andreas , Half-Life e Minecraft. Esse foi o ponto de partida para o meu interesse por programação. Com o tempo, fui me aprofundando de forma autodidata em áreas como HTML, CSS e bancos de dados, com base em projetos encontrados na internet. Percebi, então, minha vocação para a programação e decidi prestar vestibular para a Fatec, onde estou cursando Análise e Desenvolvimento de Sistemas.
+Meu primeiro contato com programação foi ainda na infância, quando criei modificações (mods, patches e scripts) para jogos como Counter-Strike 1.6, GTA: San Andreas, Half-Life e Minecraft. Essa experiência despertou meu interesse por tecnologia. Com o tempo, comecei a aprender por conta própria linguagens como HTML, CSS e também bancos de dados, usando projetos encontrados na internet. Foi aí que descobri minha vocação para a área e decidi prestar vestibular para a Fatec, onde hoje curso Análise e Desenvolvimento de Sistemas.
 
 Atualmente, sou estagiário na Secretaria da Educação de Caçapava, onde presto suporte técnico em TI. Minhas responsabilidades incluem a manutenção e o conserto de equipamentos, além de realizar visitas às escolas para resolver problemas técnicos específicos. Esse estágio tem me proporcionado uma valiosa experiência em suporte de TI e no atendimento ao cliente.
 
@@ -81,11 +80,11 @@ Estou comprometido com um processo contínuo de crescimento e sempre em busca de
 
 # Sistema de Reporte para o Técnico de Computadores - 2022-2 (1° Semestre)
 
-## 📋 Desafio (Problema)
+### 📋 Desafio (Problema)
+Durante um projeto proposto pela escola e orientado pelo professor Jean Carlos Lourenço Costa, identificamos a necessidade de um sistema para controle de ordens de serviço. O objetivo era automatizar o registro de falhas em equipamentos de hardware e software, facilitando o trabalho dos técnicos e melhorando a eficiência do atendimento.
 
-Neste desafio proposto pela escola, com a orientação do professor Jean Carlos Lourenço Costa, o problema identificado foi a necessidade de um sistema para controle de ordens de serviço, com foco na automação do processo de reporte de equipamentos com mau funcionamento, tanto em relação a hardware quanto a software. Este sistema web visa facilitar a gestão e o acompanhamento das solicitações de reparo, visando otimizar o trabalho dos técnicos e melhorar a eficiência do atendimento.
-
-A solução proposta consiste no desenvolvimento de um sistema visualmente atraente, que seja fácil de utilizar e que permita o registro e acompanhamento das ordens de serviço de forma organizada. O projeto será construído utilizando as habilidades e conhecimentos adquiridos ao longo do curso, com o objetivo de implementar uma solução prática e funcional.
+### 👨‍💻 Solução
+A proposta consiste no desenvolvimento de um sistema web com interface simples e intuitiva, que permita registrar e acompanhar ordens de serviço de forma organizada. O projeto será desenvolvido com base nos conhecimentos adquiridos ao longo do curso, buscando entregar uma solução prática, funcional e visualmente atrativa.
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/ErikZFerraz/API_MirageGroup" target="_blank">aqui!</a>
 
@@ -93,7 +92,7 @@ A solução proposta consiste no desenvolvimento de um sistema visualmente atrae
 
 <h1></h1>
 
-### 🌐 Tecnologias Utilizadas
+## 🌐 Tecnologias Utilizadas
 
 <div>
   <span>
@@ -146,36 +145,24 @@ A solução proposta consiste no desenvolvimento de um sistema visualmente atrae
 
 <h1></h1>
 
-### 💡Contribuições Pessoais
+## 💡 Contribuições Pessoais
 
-Nesse projeto, fui responsável pela estruturação e estilização das páginas utilizando HTML5 e CSS3, criando uma interface acessível e intuitiva para os usuários. Além disso, implementei funcionalidades interativas com JavaScript, proporcionando uma experiência dinâmica e fluida. Também participei da organização e do processamento dos dados de ordens de serviço, ajudando na implementação das funcionalidades de reportes de equipamentos com mau funcionamento, tanto em hardware quanto em software, de forma eficiente e fácil de utilizar.
+Neste projeto, fui responsável pela estruturação e estilização das páginas utilizando **HTML5** e **CSS3**, criando uma interface acessível e intuitiva para os usuários. Além disso, implementei funcionalidades interativas com **JavaScript**, proporcionando uma experiência dinâmica e fluida. Também participei da organização e do processamento dos dados de ordens de serviço, colaborando na implementação das funcionalidades de reporte de equipamentos com mau funcionamento, tanto em hardware quanto em software, de forma eficiente e fácil de utilizar.
 
-<br>
+## 🛠️ Hard Skills
 
-<b>Hard Skills</b>
-<ul>
-  <li><b>Desenvolvimento web utilizando HTML</b> - Realizo com autonomia</li>
-  <li><b>Estilização das páginas web utilizando CSS</b> - Realizo com autonomia</li>
-  <li><b>Plotagem de gráficos utilizando Python</b> - Realizo com auxílio</li>
-  <li><b>Hospedagem utilizando Python, Flask e Heroku</b> - Realizo com auxílio</li>
-</ul>
+- **Desenvolvimento web utilizando HTML** – Realizo com autonomia.  
+- **Estilização das páginas web utilizando CSS** – Realizo com autonomia.  
+- **Plotagem de gráficos utilizando Python** – Realizo com auxílio.  
+- **Hospedagem utilizando Python, Flask e Heroku** – Realizo com auxílio.
 
-<br>
+## 🧠 Soft Skills
 
-<b>Soft Skills</b>
-<ul>
-  <li>
-    <b>Trabalho em equipe</b> - Durante o desenvolvimento, realizei entregas rápidas para que o processo não sofresse atrasos, colaborei com sugestões técnicas, como o uso de grids e containers com CSS para estruturação das páginas, além de priorizar a boa convivência, criando afinidade com meus novos colegas de equipe;
-  </li>
-  
-  <li>
-    <b>Disposição para aprender</b> - Por conta de minha recente integração à área, diferente de meus colegas que já estavam familiarizados com programação, me dediquei a pesquisas aprofundadas nas tecnologias utilizadas, além de compartilhar experiências com os demais colegas e, assim, contribuir ativamente com o grupo. Nessas pesquisas, aprendi diferentes técnicas de estruturação de páginas HTML com uso de containers, uso de folhas de estilo com CSS, e introdução à responsividade entre dispositivos;
-  </li>
-  
-  <li>
-    <b>Comunicação</b> - Mantive uma comunicação aberta para garantir maior organização do grupo, bem como o contato com o cliente para sanar todas as dúvidas em relação ao projeto, alinhando suas expectativas com o resultado final do produto.
-  </li>
-</ul>
+- **Trabalho em equipe** – Durante o desenvolvimento, realizei entregas rápidas para evitar atrasos, colaborei com sugestões técnicas (como o uso de grids e containers com CSS para estruturação das páginas) e priorizei a boa convivência, criando afinidade com meus colegas de equipe.
+
+- **Disposição para aprender** – Por ser recém-integrado à área, diferente dos colegas já familiarizados com programação, me dediquei a pesquisas aprofundadas nas tecnologias utilizadas, compartilhei experiências com o time e contribuí ativamente com o grupo. Nesses estudos, aprendi diferentes técnicas de estruturação de páginas HTML, uso de folhas de estilo com CSS e introdução à responsividade entre dispositivos.
+
+- **Comunicação** – Mantive uma comunicação aberta para garantir a organização do grupo, além de interagir com o cliente para esclarecer dúvidas e alinhar suas expectativas com o produto final.
 
 > [Voltar ao topo](#topo)
 <span id='2'>
@@ -185,9 +172,11 @@ Nesse projeto, fui responsável pela estruturação e estilização das páginas
 
 # Sistema de Assistente Virtual para Respostas Automáticas - 2023-2 (2° Semestre)
 
-## 📋 Desafio (Problema)
+### 📋 Desafio (Problema)
 
 Neste desafio proposto pela Fatec, o cliente foi o professor **Giuliano Bertoti**. O problema estava relacionado à dificuldade na automação da resposta a perguntas frequentes em um contexto específico, baseado em documentos. A necessidade surgiu de criar um sistema capaz de responder automaticamente às perguntas, utilizando um documento acessado pelo assistente virtual. A solução deveria envolver o uso de tecnologias robustas para garantir que o sistema fosse eficiente, escalável e fácil de utilizar.
+
+### 👨‍💻 Solução
 
 Como solução, foi desenvolvido um **assistente virtual** que utiliza **Java** para processar as perguntas e buscar as respostas dentro de um documento estruturado. A aplicação foi projetada para ser fácil de usar, com um design simples e claro, permitindo que o usuário obtenha respostas rápidas. O sistema também deveria ser modular, permitindo a adição de novos documentos e atualizações no futuro.
 
@@ -197,7 +186,7 @@ Como solução, foi desenvolvido um **assistente virtual** que utiliza **Java** 
 
 <h1></h1>
 
-### 🌐 Tecnologias Utilizadas
+## 🌐 Tecnologias Utilizadas
 
 <div>
   <span>
@@ -251,40 +240,32 @@ Como solução, foi desenvolvido um **assistente virtual** que utiliza **Java** 
 
 <h1></h1>
 
-### 💡Contribuições Pessoais
+## 💡 Contribuições Pessoais
 
-Durante o desenvolvimento, fui responsável pela implementação da **lógica do assistente virtual** em **Java**, que processa as perguntas dos usuários e encontra as respostas nos documentos fornecidos. Também fui responsável pela integração entre o sistema de leitura de documentos e a parte de resposta, garantindo que as consultas ao documento fossem eficientes. <br>
+Durante o desenvolvimento, fui responsável pela implementação da **lógica do assistente virtual** em **Java**, que processa as perguntas dos usuários e encontra as respostas nos documentos fornecidos. Também fui responsável pela integração entre o sistema de leitura de documentos e a parte de resposta, garantindo que as consultas ao documento fossem eficientes.
 
-Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para criar uma experiência de usuário interativa. Trabalhei na configuração do ambiente de desenvolvimento no **NetBeans IDE** e **Eclipse** e também na criação de testes unitários para garantir a qualidade do código. Também utilizei **MySQL** para o armazenamento de dados de usuários e registros de interações.
+Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para criar uma experiência de usuário interativa. Trabalhei na configuração do ambiente de desenvolvimento no **NetBeans IDE** e **Eclipse**, e também na criação de testes unitários para garantir a qualidade do código. Utilizei **MySQL** para o armazenamento de dados de usuários e registros de interações.
 
-<br>
+---
 
-<b>Hard Skills</b>
-<ul>
-  <li><b>Programação em Java</b> - Realizo com autonomia, com foco em desenvolvimento de sistemas orientados a objetos.</li>
-  <li><b>Desenvolvimento com JavaFX</b> - Realizo com autonomia, criando interfaces gráficas para melhorar a experiência do usuário.</li>
-  <li><b>Integração com documentos e processamento de informações</b> - Realizo com autonomia, garantindo que o assistente responda de maneira eficiente.</li>
-  <li><b>Gerenciamento de banco de dados com MySQL</b> - Realizo com auxílio, utilizando para armazenar dados e interações.</li>
-  <li><b>Desenvolvimento com NetBeans IDE</b> - Realizo com autonomia, configurando o ambiente de desenvolvimento para o projeto.</li>
-  <li><b>Hospedagem de sistemas localmente</b> - Realizo com auxílio, garantindo que a aplicação seja acessível em ambiente local para testes e desenvolvimento.</li>
-</ul>
+## 🛠️ Hard Skills
 
-<br>
+- **Programação em Java** – Realizo com autonomia, com foco em desenvolvimento de sistemas orientados a objetos.  
+- **Desenvolvimento com JavaFX** – Realizo com autonomia, criando interfaces gráficas para melhorar a experiência do usuário.  
+- **Integração com documentos e processamento de informações** – Realizo com autonomia, garantindo que o assistente responda de maneira eficiente.  
+- **Gerenciamento de banco de dados com MySQL** – Realizo com auxílio, utilizando para armazenar dados e interações.  
+- **Desenvolvimento com NetBeans IDE** – Realizo com autonomia, configurando o ambiente de desenvolvimento para o projeto.  
+- **Hospedagem de sistemas localmente** – Realizo com auxílio, garantindo que a aplicação seja acessível em ambiente local para testes e desenvolvimento.
 
-<b>Soft Skills</b>
-<ul>
-  <li>
-    <b>Trabalho em equipe</b> - Trabalhei em estreita colaboração com outros membros da equipe para desenvolver as funcionalidades de forma integrada e eficiente, garantindo uma boa comunicação entre os membros.
-  </li>
-  
-  <li>
-    <b>Proatividade</b> - Durante o desenvolvimento, tomei a iniciativa de implementar novas funcionalidades para melhorar o desempenho do assistente, como a otimização na busca de respostas nos documentos.
-  </li>
-  
-  <li>
-    <b>Comunicação</b> - Mantive uma comunicação contínua com o cliente para alinhar as expectativas do projeto e garantir que o assistente atendesse adequadamente às necessidades dele.
-  </li>
-</ul>
+---
+
+## 🧠 Soft Skills
+
+- **Trabalho em equipe** – Trabalhei em estreita colaboração com outros membros da equipe para desenvolver as funcionalidades de forma integrada e eficiente, garantindo uma boa comunicação entre os membros.  
+
+- **Proatividade** – Durante o desenvolvimento, tomei a iniciativa de implementar novas funcionalidades para melhorar o desempenho do assistente, como a otimização na busca de respostas nos documentos.  
+
+- **Comunicação** – Mantive uma comunicação contínua com o cliente para alinhar as expectativas do projeto e garantir que o assistente atendesse adequadamente às necessidades dele.
 
 > [Voltar ao topo](#topo)
 <span id='3'>
@@ -292,9 +273,11 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 
 # Sistema Web de Gerenciamento de Vendas - 2024-1 (3° Semestre)
 
-## 📋 Desafio (Problema)
+### 📋 Desafio (Problema)
+Este projeto acadêmico tem como foco o desenvolvimento de um Sistema de Gerenciamento e Análise de Vendas, com o objetivo de fornecer uma visão ampla e detalhada dos dados comerciais. A necessidade identificada foi a criação de uma aplicação capaz de interpretar informações extraídas de um arquivo Excel (.xlsx), permitindo análises eficientes tanto para vendedores quanto para administradores.
 
-Este é um projeto acadêmico sobre Sistema de Gerenciamento e analise das vendas de forma ampla e detalhada, que possui como objetivo criar uma aplicação que tem como objetivo apresentar um dashboard com base em informações fornecidas de um arquivo excel (.xlsx), onde um vendedor cadastrado pode visualizar suas estatísticas de vendas e o administrador recebe uma visão geral, tanto das vendas em geral, como de um vendedor específico.
+### 👨‍💻 Solução
+A solução proposta é o desenvolvimento de uma aplicação com dashboard interativo, onde vendedores cadastrados podem acessar estatísticas personalizadas de suas vendas. Já o administrador tem acesso a uma visão geral do desempenho de todos os vendedores, além de poder acompanhar dados específicos de cada um. A aplicação busca facilitar a tomada de decisões por meio de visualizações claras e funcionais dos dados fornecidos.
 
 > Acesse o repositório desse projeto clicando [aqui!](https://github.com/Code-Lotus/api-3)
 
@@ -388,9 +371,11 @@ Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-e
 
 # Sistema de Integração Logística para a JJM Log - 2024-2 (4º Semestre)
 
-## 📋 Desafio (Problema)
+### 📋 Desafio (Problema)
 
 Neste desafio proposto pela FATEC Jessen Vidal, com orientação da professora Juliana, o problema identificado foi a necessidade de integrar os diferentes setores da empresa JJM Log, com foco na melhoria da comunicação e eficiência nas operações logísticas. A proposta consiste em desenvolver um sistema web que facilite o gerenciamento das ordens de serviço e o controle de atividades internas da empresa, tanto no que se refere à gestão de clientes, veículos, quanto na comunicação entre os colaboradores.
+
+### 👨‍💻 Solução
 
 A solução proposta é a criação de uma plataforma visualmente intuitiva e de fácil uso, permitindo o registro, acompanhamento e gerenciamento de tarefas e recursos de forma eficiente. Este projeto visa otimizar os processos logísticos e facilitar o trabalho dos colaboradores, utilizando ferramentas modernas de desenvolvimento.
 
@@ -486,15 +471,17 @@ Eu também participei da definição das funcionalidades do sistema, que inclui 
 - **Disposição para aprender**: Como estava aprendendo novas tecnologias, me dediquei a estudar e aplicar o que fosse necessário, garantindo minha contribuição no projeto.
 - **Comunicação**: Mantive um canal de comunicação aberto com a equipe e com o cliente, garantindo que as expectativas fossem atendidas e alinhadas ao longo do desenvolvimento do projeto.
 
-→ [Voltar ao topo](#topo)
+> [Voltar ao topo](#topo)
 <span id='5'>
 <h1></h1>
 
 # Sistema de Gerenciamento de Reembolsos - DriftOps - 2025-1 (5º Semestre)
 
-## 📋 Desafio (Problema)
+### 📋 Desafio (Problema)
 
 Este projeto, desenvolvido por alunos do 5º Semestre de Análise e Desenvolvimento de Sistemas da FATEC Jessen Vidal, tem como objetivo criar um aplicativo móvel para gerenciar reembolsos de despesas. O sistema visa solucionar desafios comuns enfrentados pelas empresas na gestão de reembolsos, como a perda de comprovantes, falta de transparência nos gastos e processos de aprovação lentos.
+
+### 👨‍💻 Solução
 
 A proposta é desenvolver uma solução ágil, eficaz e de fácil utilização, que permita o controle, monitoramento e aprovação de reembolsos de forma mais transparente e eficiente, tanto para os colaboradores quanto para a organização. O projeto foi desenvolvido para a empresa **GSW**, com a metodologia **Scrum** aplicada durante o desenvolvimento.
 
