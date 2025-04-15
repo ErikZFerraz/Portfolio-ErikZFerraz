@@ -81,10 +81,10 @@ Estou comprometido com um processo contínuo de crescimento e sempre em busca de
 # Sistema de Reporte para o Técnico de Computadores - 2022-2 (1° Semestre)
 
 ### 📋 Desafio (Problema)
-Durante um projeto proposto pela escola e orientado pelo professor Jean Carlos Lourenço Costa, identificamos a necessidade de um sistema para controle de ordens de serviço. O objetivo era automatizar o registro de falhas em equipamentos de hardware e software, facilitando o trabalho dos técnicos e melhorando a eficiência do atendimento.
+Neste desafio proposto pela escola, com a orientação do professor Jean Carlos Lourenço Costa, o problema identificado foi a necessidade de um sistema para controle de ordens de serviço, com foco na automação do processo de reporte de equipamentos com mau funcionamento, tanto em relação a hardware quanto a software. Este sistema web visa facilitar a gestão e o acompanhamento das solicitações de reparo, visando otimizar o trabalho dos técnicos e melhorar a eficiência do atendimento.
 
 ### 👨‍💻 Solução
-A proposta consiste no desenvolvimento de um sistema web com interface simples e intuitiva, que permita registrar e acompanhar ordens de serviço de forma organizada. O projeto será desenvolvido com base nos conhecimentos adquiridos ao longo do curso, buscando entregar uma solução prática, funcional e visualmente atrativa.
+A solução proposta consiste no desenvolvimento de um sistema visualmente atraente, que seja fácil de utilizar e que permita o registro e acompanhamento das ordens de serviço de forma organizada. O projeto será construído utilizando as habilidades e conhecimentos adquiridos ao longo do curso, com o objetivo de implementar uma solução prática e funcional.
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/ErikZFerraz/API_MirageGroup" target="_blank">aqui!</a>
 
