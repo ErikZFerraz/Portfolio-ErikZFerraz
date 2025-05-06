@@ -158,9 +158,17 @@ Neste projeto, fui responsável pela estruturação e estilização das páginas
 
 ## 🧠 Soft Skills
 
+<!---
+Trabalho em equipe – Atuei como parte do time de desenvolvimento, contribuindo com tarefas essenciais para o avanço do projeto. Mesmo com menos experiência técnica que os demais integrantes, colaborei com entregas pontuais, participei de decisões básicas de estruturação e mantive uma boa relação com a equipe, o que favoreceu a cooperação ao longo do processo.
+
+Proatividade – Aproveitei a oportunidade para me aprofundar nas tecnologias utilizadas, buscando entender o funcionamento do projeto e aprender com os colegas mais experientes. Contribuí com pequenas implementações e fui responsável por aplicar conceitos como organização de páginas com HTML e estilização básica com CSS.
+
+Organização – Mantive uma rotina de estudos e tarefas bem definida para acompanhar o ritmo do grupo. Com isso, mesmo assumindo funções mais simples, consegui entregar minhas partes com responsabilidade, contribuindo para o cumprimento dos prazos e para a consistência do trabalho em equipe.
+--->
+
 - **Trabalho em equipe** – Durante o desenvolvimento, realizei entregas rápidas para evitar atrasos, colaborei com sugestões técnicas (como o uso de grids e containers com CSS para estruturação das páginas) e priorizei a boa convivência, criando afinidade com meus colegas de equipe.
 
-- **Disposição para aprender** – Por ser recém-integrado à área, diferente dos colegas já familiarizados com programação, me dediquei a pesquisas aprofundadas nas tecnologias utilizadas, compartilhei experiências com o time e contribuí ativamente com o grupo. Nesses estudos, aprendi diferentes técnicas de estruturação de páginas HTML, uso de folhas de estilo com CSS e introdução à responsividade entre dispositivos.
+- **Proatividade** – Por ser recém-integrado à área, diferente dos colegas já familiarizados com programação, me dediquei a pesquisas aprofundadas nas tecnologias utilizadas, compartilhei experiências com o time e contribuí ativamente com o grupo. Nesses estudos, aprendi diferentes técnicas de estruturação de páginas HTML, uso de folhas de estilo com CSS e introdução à responsividade entre dispositivos.
 
 - **Comunicação** – Mantive uma comunicação aberta para garantir a organização do grupo, além de interagir com o cliente para esclarecer dúvidas e alinhar suas expectativas com o produto final.
 
