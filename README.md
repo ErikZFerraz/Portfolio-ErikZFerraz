@@ -5,12 +5,10 @@
 <p align="center" dir="auto"> 
   | <a href="#contatos">Contatos</a> |
   <a href="#1">Sistema de Reporte para o Técnico</a> |
-  <!---
   <a href="#2">Assistente Virtual</a> |
   <a href="#3">Sistema Web Gerenciamento de Vendas</a> |
   <a href="#4">Sistema de Integração Logística para a JJM Log</a> |
   <a href="#5">Sistema de Gerenciamento de Reembolsos para a GSW</a>
-  --->
 </p>
 
 <h2 align='center'>🌐 Introdução 🌐</h2>
@@ -176,7 +174,7 @@ Organização – Mantive uma rotina de estudos e tarefas bem definida para acom
 <span id='2'>
 <h1></h1>
 
-<!---
+
 
 # Sistema de Assistente Virtual para Respostas Automáticas - 2023-2 (2° Semestre)
 
@@ -594,5 +592,3 @@ Neste projeto, atuei como **Scrum Master**, coordenando o desenvolvimento do sis
 - **Resolução de Problemas**: Enfrentei e resolvi desafios durante o desenvolvimento, buscando soluções criativas para garantir que o produto final atendesse às expectativas do cliente.
 
 > [Voltar ao topo](#topo)
-
---->
