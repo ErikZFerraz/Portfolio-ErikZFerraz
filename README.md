@@ -482,7 +482,7 @@ Eu também participei da definição das funcionalidades do sistema, que inclui 
 
 ### 📋 Desafio (Problema)
 
-Este projeto, desenvolvido por alunos do 5º Semestre de Análise e Desenvolvimento de Sistemas da FATEC Jessen Vidal, tem como objetivo criar um aplicativo móvel para gerenciar reembolsos de despesas. O sistema visa solucionar desafios comuns enfrentados pelas empresas na gestão de reembolsos, como a perda de comprovantes, falta de transparência nos gastos e processos de aprovação lentos.
+Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor **Gerson Penha**, tem como objetivo criar um aplicativo móvel para gerenciar reembolsos de despesas. O sistema visa solucionar desafios comuns enfrentados pelas empresas na gestão de reembolsos, como a perda de comprovantes, falta de transparência nos gastos e processos de aprovação lentos.
 
 ### 👨‍💻 Solução
 
