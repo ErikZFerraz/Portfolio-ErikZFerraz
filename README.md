@@ -359,8 +359,8 @@ Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-e
 
 ## 🛠️ Hard Skills
 
-* Desenvolvimento utlizando a linguagem JavaScript - Realizo com auxílio
-* Elaboração do front-end utilizando React - Realizo com autonomia
+- **Desenvolvimento utlizando a linguagem JavaScript** - Realizo com auxílio
+- **Elaboração do front-end utilizando React** - Realizo com autonomia
 
 ## 🧠 Soft Skills
 
