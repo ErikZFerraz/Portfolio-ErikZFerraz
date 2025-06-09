@@ -6,7 +6,7 @@
   | <a href="#contatos">Contatos</a> |
   <a href="#1">Sistema de Reporte para o Técnico</a> |
   <a href="#2">Assistente Virtual</a> |
-  <a href="#3">Sistema Web Gerenciamento de Vendas</a> |
+  <a href="#3">Sistema Web DashBoard de Gerenciamento de Vendas Pro4Tech</a> |
   <a href="#4">Sistema de Integração Logística para a JJM Log</a> |
   <a href="#5">Sistema de Gerenciamento de Reembolsos para a GSW</a>
 </p>
@@ -38,7 +38,9 @@ Estou comprometido com um processo contínuo de crescimento e sempre em busca de
  | :------:      | :------: |
  | Introdução ao MongoDB | MongoDB |
  | Google Cloud Foundations | GoogleCloud |
- | Empreendedorismo | inovacps |
+ | Escola de Inovadores | Inova CPS|
+ |Caminho do desenvolvedor MongoDB Python| MongoDB|
+ |Perguntas práticas do desenvolvedor associado Python| MongoDB|
 
 <span id='contatos'>
 <h2 align='center'>📞 Contatos 📞</h2>
@@ -48,26 +50,30 @@ Estou comprometido com um processo contínuo de crescimento e sempre em busca de
 
 <h2 align='center'>💻 Meus Principais Conhecimentos 💻</h2>
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-![html](https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br>
 
 </div>
@@ -79,7 +85,7 @@ Estou comprometido com um processo contínuo de crescimento e sempre em busca de
 # Sistema de Reporte para o Técnico de Computadores - 2022-2 (1° Semestre)
 
 ### 📋 Desafio (Problema)
-Neste desafio proposto pela escola, com a orientação do professor Jean Carlos Lourenço Costa, o problema identificado foi a necessidade de um sistema para controle de ordens de serviço, com foco na automação do processo de reporte de equipamentos com mau funcionamento, tanto em relação a hardware quanto a software. Este sistema web visa facilitar a gestão e o acompanhamento das solicitações de reparo, visando otimizar o trabalho dos técnicos e melhorar a eficiência do atendimento.
+Neste desafio proposto pela escola, com a orientação do professor **Jean Carlos Lourenço Costa**, o problema identificado foi a necessidade de um sistema para controle de ordens de serviço, com foco na automação do processo de reporte de equipamentos com mau funcionamento, tanto em relação a hardware quanto a software. Este sistema web visa facilitar a gestão e o acompanhamento das solicitações de reparo, visando otimizar o trabalho dos técnicos e melhorar a eficiência do atendimento.
 
 ### 👨‍💻 Solução
 A solução proposta consiste no desenvolvimento de um sistema visualmente atraente, que seja fácil de utilizar e que permita o registro e acompanhamento das ordens de serviço de forma organizada. O projeto será construído utilizando as habilidades e conhecimentos adquiridos ao longo do curso, com o objetivo de implementar uma solução prática e funcional.
@@ -252,7 +258,6 @@ Durante o desenvolvimento, fui responsável pela implementação da **lógica do
 
 Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para criar uma experiência de usuário interativa. Trabalhei na configuração do ambiente de desenvolvimento no **NetBeans IDE** e **Eclipse**, e também na criação de testes unitários para garantir a qualidade do código. Utilizei **MySQL** para o armazenamento de dados de usuários e registros de interações.
 
----
 
 ## 🛠️ Hard Skills
 
@@ -262,8 +267,6 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 - **Gerenciamento de banco de dados com MySQL** – Realizo com auxílio, utilizando para armazenar dados e interações.  
 - **Desenvolvimento com NetBeans IDE** – Realizo com autonomia, configurando o ambiente de desenvolvimento para o projeto.  
 - **Hospedagem de sistemas localmente** – Realizo com auxílio, garantindo que a aplicação seja acessível em ambiente local para testes e desenvolvimento.
-
----
 
 ## 🧠 Soft Skills
 
@@ -280,16 +283,16 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 # Sistema Web de Gerenciamento de Vendas - 2024-1 (3° Semestre)
 
 ### 📋 Desafio (Problema)
-Este projeto acadêmico tem como foco o desenvolvimento de um Sistema de Gerenciamento e Análise de Vendas, com o objetivo de fornecer uma visão ampla e detalhada dos dados comerciais. A necessidade identificada foi a criação de uma aplicação capaz de interpretar informações extraídas de um arquivo Excel (.xlsx), permitindo análises eficientes tanto para vendedores quanto para administradores.
+O projeto, desenvolvido na FATEC Jessen Vidal com orientação do professor **Giuliano Bertoti** e em parceria com a empresa Pro4Tech, tem como objetivo criar um Sistema de Gerenciamento e Análise de Vendas. A iniciativa surgiu da dificuldade de acesso a dados comerciais armazenados em planilhas Excel, especialmente com grandes volumes de informação. A solução proposta é uma aplicação que interpreta arquivos .xlsx, facilitando a análise para vendedores e administradores.
 
 ### 👨‍💻 Solução
 A solução proposta é o desenvolvimento de uma aplicação com dashboard interativo, onde vendedores cadastrados podem acessar estatísticas personalizadas de suas vendas. Já o administrador tem acesso a uma visão geral do desempenho de todos os vendedores, além de poder acompanhar dados específicos de cada um. A aplicação busca facilitar a tomada de decisões por meio de visualizações claras e funcionais dos dados fornecidos.
 
 > Acesse o repositório desse projeto clicando [aqui!](https://github.com/Code-Lotus/api-3)
 
-![Descrição da Imagem](https://raw.githubusercontent.com/DriftOps/API-IV/main/IMG/Proto.gif)
+ <img src="images/videoDashbord.gif"/>
 
----
+<h1></h1>
 
 ## 🌐 Tecnologias Utilizadas
 
@@ -322,7 +325,7 @@ A solução proposta é o desenvolvimento de uma aplicação com dashboard inter
 <br>
 <div>
   <span>
-    <img align="center" alt="React Native" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"><b>React Native</b> - </img>
+    <img align="center" alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"><b>React</b> - </img>
   </span>
   <span>
     Utilizada para a estruturação do front-end.
@@ -331,7 +334,7 @@ A solução proposta é o desenvolvimento de uma aplicação com dashboard inter
 <br>
 <div>
   <span>
-    <img align="center" alt="PostgreSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"><b>PostgreSQL</b> - </img>
+    <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><b>MySQL</b> - </img>
   </span>
   <span>
     Utilizada para o gerenciamento e armazenamento dos dados.
@@ -347,25 +350,21 @@ A solução proposta é o desenvolvimento de uma aplicação com dashboard inter
   </span>
 </div>
 
----
+<h1></h1>
 
 ## 💡 Contribuições Pessoais
 
-Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-end quanto para o front-end da aplicação. No back-end, desempenhei um papel ativo em tarefas relacionadas à exibição de informações, como a configuração e o gerenciamento do registro de usuários utilizando o JavaScript. Além disso, trabalhei na implementação de funcionalidades para proporcionar uma experiência de usuário fluida e intuitiva. No front-end utilizei o React Native, participei da estilização da aplicação e assegurei sua responsividade. Ao colaborar em ambas as áreas, integrei efetivamente as diferentes partes do sistema, garantindo sua coesão como um todo.
+Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-end quanto para o front-end da aplicação. No back-end, desempenhei um papel ativo em tarefas relacionadas à exibição de informações, como a configuração e o gerenciamento do registro de usuários utilizando o JavaScript. Além disso, trabalhei na implementação de funcionalidades para proporcionar uma experiência de usuário fluida e intuitiva. No front-end utilizei o React, participei da estilização da aplicação e assegurei sua responsividade. Ao colaborar em ambas as áreas, integrei efetivamente as diferentes partes do sistema, garantindo sua coesão como um todo.
 
----
 
 ## 🛠️ Hard Skills
 
 * Desenvolvimento utlizando a linguagem JavaScript - Realizo com auxílio
-* Elaboração do front-end utilizando React Native - Realizo com autonomia
-* Modelagem do banco de dados utilizando PostgreSQL - Realizo com autonomia
-
----
+* Elaboração do front-end utilizando React - Realizo com autonomia
 
 ## 🧠 Soft Skills
 
-* <b>Colaboração</b> - Durante o desenvolvimento da responsividade no front-end, trabalhei em estreita colaboração com um colega para resolver um problema crítico na renderização de componentes em diferentes dispositivos. Compartilhamos conhecimentos sobre React Native e testamos juntos várias abordagens até alcançar uma solução funcional, o que resultou em uma interface adaptável e eficiente para os usuários.
+* <b>Colaboração</b> - Durante o desenvolvimento da responsividade no front-end, trabalhei em estreita colaboração com um colega para resolver um problema crítico na renderização de componentes em diferentes dispositivos. Compartilhamos conhecimentos sobre React e testamos juntos várias abordagens até alcançar uma solução funcional, o que resultou em uma interface adaptável e eficiente para os usuários.
 * <b>Gestão do tempo</b> - Utilizei técnicas de organização e priorização para otimizar meu tempo de trabalho, garantindo o cumprimento dos prazos e entregas do projeto de maneira eficaz.
 * <b>Resiliência</b> -  Ao me deparar com dificuldades na adaptação à linguagem JavaScript, especialmente ao lidar com padrões de microserviços, busquei aprimorar minhas habilidades por meio de tutoriais práticos e revisões de código.
 
@@ -379,7 +378,7 @@ Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-e
 
 ### 📋 Desafio (Problema)
 
-Neste desafio proposto pela FATEC Jessen Vidal, com orientação da professora Juliana, o problema identificado foi a necessidade de integrar os diferentes setores da empresa JJM Log, com foco na melhoria da comunicação e eficiência nas operações logísticas. A proposta consiste em desenvolver um sistema web que facilite o gerenciamento das ordens de serviço e o controle de atividades internas da empresa, tanto no que se refere à gestão de clientes, veículos, quanto na comunicação entre os colaboradores.
+Neste desafio proposto pela FATEC Jessen Vidal, com orientação da professora **Juliana Forin Pasquini**, o problema identificado foi a necessidade de integrar os diferentes setores da empresa JJM Log, com foco na melhoria da comunicação e eficiência nas operações logísticas. A proposta consiste em desenvolver um sistema web que facilite o gerenciamento das ordens de serviço e o controle de atividades internas da empresa, tanto no que se refere à gestão de clientes, veículos, quanto na comunicação entre os colaboradores.
 
 ### 👨‍💻 Solução
 
@@ -389,7 +388,7 @@ A solução proposta é a criação de uma plataforma visualmente intuitiva e de
 
 ![Descrição da Imagem](https://raw.githubusercontent.com/DriftOps/API-IV/main/IMG/Projeto.gif)
 
----
+<h1></h1>
 
 ## 🌐 Tecnologias Utilizadas
 
@@ -452,7 +451,7 @@ A solução proposta é a criação de uma plataforma visualmente intuitiva e de
   </span>
 </div>
 
----
+<h1></h1>
 
 ## 💡 Contribuições Pessoais
 
@@ -460,7 +459,6 @@ Neste projeto, fui responsável pela implementação da interface do usuário ut
 
 Eu também participei da definição das funcionalidades do sistema, que inclui o gerenciamento de ordens de serviço, controle de clientes e veículos, além de permitir o agendamento e a visualização de reuniões. Trabalhei em estreita colaboração com os outros membros da equipe para garantir que a experiência do usuário fosse intuitiva e eficiente, alinhando as expectativas do cliente com as funcionalidades desenvolvidas.
 
----
 
 ## 🛠️ Hard Skills
 
@@ -469,7 +467,6 @@ Eu também participei da definição das funcionalidades do sistema, que inclui 
 - **Controle de versão com GitHub** - Realizo com autonomia.
 - **Gerenciamento de projetos com Trello** - Realizo com autonomia.
 
----
 
 ## 🧠 Soft Skills
 
@@ -495,7 +492,9 @@ A proposta é desenvolver uma solução ágil, eficaz e de fácil utilização, 
 
 ![Descrição da Imagem](https://raw.githubusercontent.com/DriftOps/API-IV/main/IMG/Proto.gif)
 
----
+<img src="images/Gif GSW.gif"/>
+
+<h1></h1>
 
 ## 🌐 Tecnologias Utilizadas
 
@@ -568,13 +567,12 @@ A proposta é desenvolver uma solução ágil, eficaz e de fácil utilização, 
   </span>
 </div>
 
----
+<h1></h1>
 
 ## 💡 Contribuições Pessoais
 
 Neste projeto, atuei como **Scrum Master**, coordenando o desenvolvimento do sistema e garantindo que as práticas ágeis de Scrum fossem seguidas corretamente. Fui responsável por facilitar as reuniões diárias, planejar as sprints e gerenciar a comunicação entre os membros da equipe. Além disso, também participei da implementação do **frontend** utilizando **React Native** e **TypeScript**, criando uma interface dinâmica e responsiva, e da definição das funcionalidades essenciais, como o gerenciamento de reembolsos e a visualização de históricos.
 
----
 
 ## 🛠️ Hard Skills
 
@@ -583,7 +581,6 @@ Neste projeto, atuei como **Scrum Master**, coordenando o desenvolvimento do sis
 - **Prototipação e Design de Interfaces com Figma** - Realizo com autonomia.
 - **Controle de versão com GitHub** - Realizo com autonomia.
 
----
 
 ## 🧠 Soft Skills
 
