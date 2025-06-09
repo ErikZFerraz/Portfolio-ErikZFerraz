@@ -571,6 +571,26 @@ A proposta é desenvolver uma solução ágil, eficaz e de fácil utilização, 
 
 ## 💡 Contribuições Pessoais
 
+Neste projeto, como **Scrum Master**, atuei de forma intensa no **DevTeam**, participando da **prototipação** no **Figma** e contribuindo com sugestões de design e usabilidade. Fui responsável pelo desenvolvimento do **frontend** com **React Native** e **TypeScript**, criando interfaces dinâmicas e responsivas. Realizei **commits frequentes no GitHub**, garantindo a correta versão das atualizações, e também ajudei na definição de funcionalidades-chave, como o gerenciamento de reembolsos e visualização de históricos.
+
+
+## 🛠️ Hard Skills
+
+- **Desenvolvimento Frontend com React Native e TypeScript** – Realizo com autonomia  
+- **Prototipação e Design de Interfaces com Figma** – Realizo com autonomia  
+- **Controle de versão com Git/GitHub** – Realizo com autonomia  
+- **Metodologias Ágeis com Scrum** – Tenho familiaridade  
+
+
+## 🧠 Soft Skills
+
+- **Trabalho em equipe**: Colaborei de maneira eficaz com os membros da equipe, contribuindo para o bom andamento das tarefas e mantendo uma comunicação fluida para resolver problemas de desenvolvimento  
+- **Disposição para aprender**: Durante o projeto, estive em constante aprendizado de novas tecnologias e práticas de desenvolvimento, demonstrando adaptabilidade e proatividade na busca de soluções e aprimoramento técnico  
+- **Comunicação**: Mantive um canal de comunicação aberto com a equipe e com o cliente, garantindo que as expectativas fossem compreendidas e alinhadas ao longo do desenvolvimento do projeto  
+
+<!---
+## 💡 Contribuições Pessoais
+
 Neste projeto, atuei como **Scrum Master**, coordenando o desenvolvimento do sistema e garantindo que as práticas ágeis de Scrum fossem seguidas corretamente. Fui responsável por facilitar as reuniões diárias, planejar as sprints e gerenciar a comunicação entre os membros da equipe. Além disso, também participei da implementação do **frontend** utilizando **React Native** e **TypeScript**, criando uma interface dinâmica e responsiva, e da definição das funcionalidades essenciais, como o gerenciamento de reembolsos e a visualização de históricos.
 
 
@@ -587,5 +607,6 @@ Neste projeto, atuei como **Scrum Master**, coordenando o desenvolvimento do sis
 - **Liderança e Gestão de Equipe**: Como Scrum Master, fui responsável pela organização e motivação da equipe, garantindo que os objetivos fossem cumpridos dentro dos prazos estabelecidos.
 - **Comunicação Eficaz**: Mantive uma comunicação clara e eficiente com a equipe, facilitando o fluxo de informações e garantindo que todos estivessem alinhados quanto aos objetivos do projeto.
 - **Resolução de Problemas**: Enfrentei e resolvi desafios durante o desenvolvimento, buscando soluções criativas para garantir que o produto final atendesse às expectativas do cliente.
+--->
 
 > [Voltar ao topo](#topo)
