@@ -290,7 +290,7 @@ A solução proposta é o desenvolvimento de uma aplicação com dashboard inter
 
 > Acesse o repositório desse projeto clicando [aqui!](https://github.com/Code-Lotus/api-3)
 
- <img src="images/videoDashbord.gif"/>
+<img src="images/videoDashbord.gif"/>
 
 <h1></h1>
 
@@ -489,8 +489,6 @@ Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor **
 A proposta é desenvolver uma solução ágil, eficaz e de fácil utilização, que permita o controle, monitoramento e aprovação de reembolsos de forma mais transparente e eficiente, tanto para os colaboradores quanto para a organização. O projeto foi desenvolvido para a empresa **GSW**, com a metodologia **Scrum** aplicada durante o desenvolvimento.
 
 > Acesse o repositório deste projeto clicando [aqui!](https://github.com/DriftOps/API-V)
-
-![Descrição da Imagem](https://raw.githubusercontent.com/DriftOps/API-IV/main/IMG/Proto.gif)
 
 <img src="images/Gif GSW.gif"/>
 
