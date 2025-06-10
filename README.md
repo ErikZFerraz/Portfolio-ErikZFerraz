@@ -280,7 +280,7 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 <span id='3'>
 <h1></h1>
 
-# Sistema Web de Gerenciamento de Vendas - 2024-1 (3° Semestre)
+# Sistema Web DashBoard de Gerenciamento de Vendas Pro4Tech - 2024-1 (3° Semestre)
 
 ### 📋 Desafio (Problema)
 O projeto, desenvolvido na FATEC Jessen Vidal com orientação do professor **Giuliano Bertoti** e em parceria com a empresa Pro4Tech, tem como objetivo criar um Sistema de Gerenciamento e Análise de Vendas. A iniciativa surgiu da dificuldade de acesso a dados comerciais armazenados em planilhas Excel, especialmente com grandes volumes de informação. A solução proposta é uma aplicação que interpreta arquivos .xlsx, facilitando a análise para vendedores e administradores.
@@ -478,7 +478,7 @@ Eu também participei da definição das funcionalidades do sistema, que inclui 
 <span id='5'>
 <h1></h1>
 
-# Sistema de Gerenciamento de Reembolsos - DriftOps - 2025-1 (5º Semestre)
+# Sistema de Gerenciamento de Reembolsos para a GSW - FastRefund - 2025-1 (5º Semestre)
 
 ### 📋 Desafio (Problema)
 
