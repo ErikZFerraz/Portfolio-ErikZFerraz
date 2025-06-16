@@ -82,13 +82,17 @@ Estou comprometido com um processo contínuo de crescimento e sempre em busca de
 
 <span id='1'>
 
-# Sistema de Reporte para o Técnico de Computadores - 2022-2 (1° Semestre)
+# Sistema de Reporte para o Técnico de Computadores - 2022-2 (1º Semestre)
 
-### 📋 Desafio (Problema)
-Neste desafio proposto pela escola, com a orientação do professor **Jean Carlos Lourenço Costa**, o problema identificado foi a necessidade de um sistema para controle de ordens de serviço, com foco na automação do processo de reporte de equipamentos com mau funcionamento, tanto em relação a hardware quanto a software. Este sistema web visa facilitar a gestão e o acompanhamento das solicitações de reparo, visando otimizar o trabalho dos técnicos e melhorar a eficiência do atendimento.
+### 📊 PROJETO
 
-### 👨‍💻 Solução
-A solução proposta consiste no desenvolvimento de um sistema visualmente atraente, que seja fácil de utilizar e que permita o registro e acompanhamento das ordens de serviço de forma organizada. O projeto será construído utilizando as habilidades e conhecimentos adquiridos ao longo do curso, com o objetivo de implementar uma solução prática e funcional.
+**Colaboração:** Fatec São José dos Campos - Prof. Jessen Vidal, representada pelo professor Antônio Egydio São Tiago Graça como cliente e pelo professor Jean Carlos Lourenço Costa como orientador do projeto.
+
+**O projeto foi** o desenvolvimento de um sistema web para controle de ordens de serviço, voltado à automação do processo de reporte de problemas em equipamentos de informática, tanto relacionados a hardware quanto a software. O objetivo principal foi facilitar a gestão, o registro e o acompanhamento das solicitações de reparo, otimizando o fluxo de trabalho dos técnicos e aumentando a eficiência do atendimento.
+
+**O problema apresentado** foi a ausência de um sistema estruturado para controle das ordens de serviço, o que gerava desorganização, dificuldade de rastreamento das solicitações e retrabalho por parte da equipe técnica responsável pelos reparos.
+
+**Como solução**, foi desenvolvido um sistema visualmente atrativo, de fácil uso, que permite o cadastro, acompanhamento e gerenciamento das ordens de serviço de maneira clara e organizada. O sistema foi planejado com base nos conhecimentos adquiridos ao longo do curso, visando atender de forma prática e funcional às necessidades da equipe técnica e melhorar o processo de atendimento aos chamados de manutenção.
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/ErikZFerraz/API_MirageGroup" target="_blank">aqui!</a>
 
@@ -180,17 +184,17 @@ Organização – Mantive uma rotina de estudos e tarefas bem definida para acom
 <span id='2'>
 <h1></h1>
 
+# Sistema de Assistente Virtual para Respostas Automáticas - 2023-2 (2º Semestre)
 
+### 📊 PROJETO
 
-# Sistema de Assistente Virtual para Respostas Automáticas - 2023-2 (2° Semestre)
+**Colaboração:** Fatec São José dos Campos - Prof. Jessen Vidal, representada pelo professor Giuliano Araújo Bertoti como cliente e orientador do projeto.
 
-### 📋 Desafio (Problema)
+**O projeto foi** o desenvolvimento de um assistente virtual inteligente, capaz de analisar documentos (nos formatos PDF e TXT) e responder perguntas com base em seu conteúdo. A aplicação foi implementada como um sistema Java Desktop, integrando técnicas de Processamento de Linguagem Natural (PLN) com uso de modelos da Hugging Face e banco de dados estruturado para armazenamento das informações. Todo o processo de desenvolvimento e documentação foi registrado no GitHub.
 
-Neste desafio proposto pela Fatec, o cliente foi o professor **Giuliano Bertoti**. O problema estava relacionado à dificuldade na automação da resposta a perguntas frequentes em um contexto específico, baseado em documentos. A necessidade surgiu de criar um sistema capaz de responder automaticamente às perguntas, utilizando um documento acessado pelo assistente virtual. A solução deveria envolver o uso de tecnologias robustas para garantir que o sistema fosse eficiente, escalável e fácil de utilizar.
+**O problema apresentado** consistia na dificuldade de leitura e compreensão rápida de grandes volumes de texto, especialmente em documentos técnicos, tornando difícil para o usuário localizar tópicos específicos de forma eficiente. Essa limitação dificultava o acesso direto à informação relevante.
 
-### 👨‍💻 Solução
-
-Como solução, foi desenvolvido um **assistente virtual** que utiliza **Java** para processar as perguntas e buscar as respostas dentro de um documento estruturado. A aplicação foi projetada para ser fácil de usar, com um design simples e claro, permitindo que o usuário obtenha respostas rápidas. O sistema também deveria ser modular, permitindo a adição de novos documentos e atualizações no futuro.
+**Como solução**, foi desenvolvido um assistente virtual com a biblioteca `langchain4j`, que permite a leitura de múltiplos arquivos enviados pelo usuário. A partir da leitura e indexação dos documentos, o sistema permite que o usuário interaja por meio de perguntas, recebendo respostas contextualizadas com base no conteúdo dos arquivos inseridos. Essa abordagem facilita a busca por informações específicas, promovendo agilidade e eficiência na análise de textos extensos.
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/ErikZFerraz/Code-Wave-2-API" target="_blank">aqui!</a>
 
@@ -282,11 +286,15 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 
 # Sistema Web DashBoard de Gerenciamento de Vendas Pro4Tech - 2024-1 (3° Semestre)
 
-### 📋 Desafio (Problema)
-O projeto, desenvolvido na FATEC Jessen Vidal com orientação do professor **Giuliano Bertoti** e em parceria com a empresa Pro4Tech, tem como objetivo criar um Sistema de Gerenciamento e Análise de Vendas. A iniciativa surgiu da dificuldade de acesso a dados comerciais armazenados em planilhas Excel, especialmente com grandes volumes de informação. A solução proposta é uma aplicação que interpreta arquivos .xlsx, facilitando a análise para vendedores e administradores.
+### 📊 PROJETO
 
-### 👨‍💻 Solução
-A solução proposta é o desenvolvimento de uma aplicação com dashboard interativo, onde vendedores cadastrados podem acessar estatísticas personalizadas de suas vendas. Já o administrador tem acesso a uma visão geral do desempenho de todos os vendedores, além de poder acompanhar dados específicos de cada um. A aplicação busca facilitar a tomada de decisões por meio de visualizações claras e funcionais dos dados fornecidos.
+**Colaboração:** Empresa Pro4Tech, oferece serviços web, localizada em São José dos Campos, com os professores Masanori e Cláudio como, respectivamente, P2 e M2.
+
+**O projeto foi** desenvolver uma aplicação web dinâmica para análise de dados de vendas, oferecendo à Pro4Tech uma ferramenta acessível, intuitiva e inteligente. A solução permite uma visão clara do desempenho comercial, auxiliando na tomada de decisões estratégicas com base em dados concretos. Desenvolvida com React (front-end) e Node.js (back-end), a aplicação importa dados de planilhas Excel e os apresenta em dashboards interativos, com filtros personalizados e cálculo automatizado de comissões.
+
+**O problema apresentado** da empresa eram as dificuldades para consolidar e analisar os dados de vendas, que estavam dispersos em diversas planilhas, além da falta de um padrão no cálculo das comissões, gerando retrabalho e lentidão na tomada de decisões. Havia também a necessidade de cadastrar vendas manualmente ou via upload de planilhas, com flexibilidade para editar os valores de comissões.
+
+**Como solução**, foi criada uma aplicação web com interface intuitiva, que permite o envio de planilhas, cadastro de vendas e visualização dos dados por meio de gráficos interativos. O sistema automatiza o cálculo das comissões conforme regras definidas e centraliza as informações em um único ambiente, otimizando a análise e fortalecendo a gestão comercial da empresa.
 
 > Acesse o repositório desse projeto clicando [aqui!](https://github.com/Code-Lotus/api-3)
 
@@ -376,13 +384,15 @@ Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-e
 
 # Sistema de Integração Logística para a JJM Log - 2024-2 (4º Semestre)
 
-### 📋 Desafio (Problema)
+### 📊 PROJETO
 
-Neste desafio proposto pela FATEC Jessen Vidal, com orientação da professora **Juliana Forin Pasquini**, o problema identificado foi a necessidade de integrar os diferentes setores da empresa JJM Log, com foco na melhoria da comunicação e eficiência nas operações logísticas. A proposta consiste em desenvolver um sistema web que facilite o gerenciamento das ordens de serviço e o controle de atividades internas da empresa, tanto no que se refere à gestão de clientes, veículos, quanto na comunicação entre os colaboradores.
+**Colaboração:** Empresa JJM Log, oferece serviços de logística, localizada em São José dos Campos, com os professores Sabha e Juliana como, respectivamente, M2 e P2.
 
-### 👨‍💻 Solução
+**O projeto foi** o desenvolvimento de uma plataforma web integrada para otimização dos fluxos de trabalho da empresa JJM Log. O sistema visa facilitar a colaboração entre setores, melhorar a gestão de entregas e automatizar tarefas administrativas. Desenvolvido em JavaScript e TypeScript, com arquitetura MVC, o projeto prioriza organização e manutenibilidade do código. Todo o processo está documentado no GitHub, garantindo versionamento e controle.
 
-A solução proposta é a criação de uma plataforma visualmente intuitiva e de fácil uso, permitindo o registro, acompanhamento e gerenciamento de tarefas e recursos de forma eficiente. Este projeto visa otimizar os processos logísticos e facilitar o trabalho dos colaboradores, utilizando ferramentas modernas de desenvolvimento.
+**O problema apresentado** consistia na dificuldade no gerenciamento logístico da empresa, causada pela ausência de integração entre os setores e falhas na comunicação interna. Isso impactava negativamente a eficiência dos processos, gerando retrabalho e atrasos no atendimento às demandas internas.
+
+**Como solução**, foi criada uma plataforma centralizada que automatiza o cálculo de rotas e custos, registra entregas e cargas transportadas, e permite a abertura de solicitações direcionadas aos setores responsáveis. O sistema também inclui uma área exclusiva para funcionários acessarem seus dados pessoais e enviarem documentos diretamente ao RH, como atestados e comprovantes. A solução promove maior agilidade, organização e eficiência na rotina da empresa.
 
 > Acesse o repositório desse projeto clicando [aqui!](https://github.com/DriftOps/API-IV)
 
@@ -480,13 +490,15 @@ Eu também participei da definição das funcionalidades do sistema, que inclui 
 
 # Sistema de Gerenciamento de Reembolsos para a GSW - FastRefund - 2025-1 (5º Semestre)
 
-### 📋 Desafio (Problema)
+### 📊 PROJETO
 
-Neste desafio proposto pela FATEC Jessen Vidal, com orientação do professor **Gerson Penha**, tem como objetivo criar um aplicativo móvel para gerenciar reembolsos de despesas. O sistema visa solucionar desafios comuns enfrentados pelas empresas na gestão de reembolsos, como a perda de comprovantes, falta de transparência nos gastos e processos de aprovação lentos.
+**Colaboração:** Empresa GSW Software, oferece serviços de software, localizada em São José dos Campos, com os professores Ronaldo e Gerson como, respectivamente, M2 e P2.
 
-### 👨‍💻 Solução
+**O projeto foi** o desenvolvimento de um aplicativo móvel para facilitar o processo de solicitação e controle de reembolsos corporativos. Utilizando tecnologias como Expo, Node.js e MongoDB, a solução foi pensada para proporcionar praticidade, precisão e centralização no registro das despesas, beneficiando tanto os colaboradores quanto os setores responsáveis pela análise e aprovação.
 
-A proposta é desenvolver uma solução ágil, eficaz e de fácil utilização, que permita o controle, monitoramento e aprovação de reembolsos de forma mais transparente e eficiente, tanto para os colaboradores quanto para a organização. O projeto foi desenvolvido para a empresa **GSW**, com a metodologia **Scrum** aplicada durante o desenvolvimento.
+**O problema apresentado** estava na gestão ineficiente de reembolsos, realizada manualmente por meio de formulários físicos ou planilhas descentralizadas. Isso causava inconsistências nos dados, atrasos no processamento e dificuldades na auditoria, além da falta de padronização nas informações, comprometendo a transparência e o controle interno.
+
+**Como solução**, foi criado um aplicativo móvel que centraliza todas as etapas do processo de reembolso em uma única plataforma digital. O sistema permite o cadastro das despesas com tipo, data, valor, descrição e anexos dos comprovantes, além de emitir alertas quando os valores ultrapassam os limites estabelecidos. Também é possível acompanhar, em tempo real, o status de aprovação das solicitações. Durante o desenvolvimento, foram produzidos documentos como manual do usuário, documentação da API publicada no GitHub e a modelagem do banco de dados, garantindo organização, transparência e integridade das informações.
 
 > Acesse o repositório deste projeto clicando [aqui!](https://github.com/DriftOps/API-V)
 
