@@ -498,7 +498,7 @@ Eu também participei da definição das funcionalidades do sistema, que inclui 
 
 **O problema apresentado** estava na gestão ineficiente de reembolsos, realizada manualmente por meio de formulários físicos ou planilhas descentralizadas. Isso causava inconsistências nos dados, atrasos no processamento e dificuldades na auditoria, além da falta de padronização nas informações, comprometendo a transparência e o controle interno.
 
-**Como solução**, foi criado um aplicativo móvel que centraliza todas as etapas do processo de reembolso em uma única plataforma digital. O sistema permite o cadastro das despesas com tipo, data, valor, descrição e anexos dos comprovantes, além de emitir alertas quando os valores ultrapassam os limites estabelecidos. Também é possível acompanhar, em tempo real, o status de aprovação das solicitações. Durante o desenvolvimento, foram produzidos documentos como manual do usuário, documentação da API publicada no GitHub e a modelagem do banco de dados, garantindo organização, transparência e integridade das informações.
+**Como solução**, foi criado um aplicativo móvel que centraliza todas as etapas do processo de reembolso em uma única plataforma digital. O sistema permite o cadastro das despesas com tipo, data, valor, descrição e anexos dos comprovantes, além de emitir alertas quando os valores ultrapassam os limites estabelecidos. Também é possível acompanhar, em tempo real, o status de aprovação das solicitações. Documentação da API publicada no GitHub e a modelagem do banco de dados, garantindo organização, transparência e integridade das informações.
 
 > Acesse o repositório deste projeto clicando [aqui!](https://github.com/DriftOps/API-V)
 
