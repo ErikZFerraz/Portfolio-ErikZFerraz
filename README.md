@@ -88,7 +88,7 @@ Estou comprometido com um processo contínuo de crescimento e sempre em busca de
 
 **Colaboração:** Fatec São José dos Campos - Prof. Jessen Vidal, representada pelo professor Antônio Egydio São Tiago Graça como cliente e pelo professor Jean Carlos Lourenço Costa como orientador do projeto.
 
-**O projeto foi** o desenvolvimento de um sistema web para controle de ordens de serviço, voltado à automação do processo de reporte de problemas em equipamentos de informática, tanto relacionados a hardware quanto a software. O objetivo principal foi facilitar a gestão, o registro e o acompanhamento das solicitações de reparo, otimizando o fluxo de trabalho dos técnicos e aumentando a eficiência do atendimento.
+**A Fatec Prof. Jessen Vidal propôs** o desenvolvimento de um sistema web para controle de ordens de serviço, voltado à automação do processo de reporte de problemas em equipamentos de informática, tanto relacionados a hardware quanto a software. O objetivo principal foi facilitar a gestão, o registro e o acompanhamento das solicitações de reparo, otimizando o fluxo de trabalho dos técnicos e aumentando a eficiência do atendimento.
 
 **O problema apresentado** foi a ausência de um sistema estruturado para controle das ordens de serviço, o que gerava desorganização, dificuldade de rastreamento das solicitações e retrabalho por parte da equipe técnica responsável pelos reparos.
 
@@ -190,7 +190,7 @@ Organização – Mantive uma rotina de estudos e tarefas bem definida para acom
 
 **Colaboração:** Fatec São José dos Campos - Prof. Jessen Vidal, representada pelo professor Giuliano Araújo Bertoti como cliente e orientador do projeto.
 
-**O projeto foi** o desenvolvimento de um assistente virtual inteligente, capaz de analisar documentos (nos formatos PDF e TXT) e responder perguntas com base em seu conteúdo. A aplicação foi implementada como um sistema Java Desktop, integrando técnicas de Processamento de Linguagem Natural (PLN) com uso de modelos da Hugging Face e banco de dados estruturado para armazenamento das informações. Todo o processo de desenvolvimento e documentação foi registrado no GitHub.
+**A Fatec Prof. Jessen Vidal propôs** o desenvolvimento de um assistente virtual inteligente, capaz de analisar documentos (nos formatos PDF e TXT) e responder perguntas com base em seu conteúdo. A aplicação foi implementada como um sistema Java Desktop, integrando técnicas de Processamento de Linguagem Natural (PLN) com uso de modelos da Hugging Face e banco de dados estruturado para armazenamento das informações. Todo o processo de desenvolvimento e documentação foi registrado no GitHub.
 
 **O problema apresentado** consistia na dificuldade de leitura e compreensão rápida de grandes volumes de texto, especialmente em documentos técnicos, tornando difícil para o usuário localizar tópicos específicos de forma eficiente. Essa limitação dificultava o acesso direto à informação relevante.
 
@@ -290,7 +290,7 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 
 **Colaboração:** Empresa Pro4Tech, oferece serviços web, localizada em São José dos Campos, com os professores Masanori e Cláudio como, respectivamente, P2 e M2.
 
-**O projeto foi** desenvolver uma aplicação web dinâmica para análise de dados de vendas, oferecendo à Pro4Tech uma ferramenta acessível, intuitiva e inteligente. A solução permite uma visão clara do desempenho comercial, auxiliando na tomada de decisões estratégicas com base em dados concretos. Desenvolvida com React (front-end) e Node.js (back-end), a aplicação importa dados de planilhas Excel e os apresenta em dashboards interativos, com filtros personalizados e cálculo automatizado de comissões.
+**A empresa Pro4Tech propôs** desenvolver uma aplicação web dinâmica para análise de dados de vendas, oferecendo uma ferramenta acessível, intuitiva e inteligente. A solução permite uma visão clara do desempenho comercial, auxiliando na tomada de decisões estratégicas com base em dados concretos. Desenvolvida com React (front-end) e Node.js (back-end), a aplicação importa dados de planilhas Excel e os apresenta em dashboards interativos, com filtros personalizados e cálculo automatizado de comissões.
 
 **O problema apresentado** da empresa eram as dificuldades para consolidar e analisar os dados de vendas, que estavam dispersos em diversas planilhas, além da falta de um padrão no cálculo das comissões, gerando retrabalho e lentidão na tomada de decisões. Havia também a necessidade de cadastrar vendas manualmente ou via upload de planilhas, com flexibilidade para editar os valores de comissões.
 
@@ -388,7 +388,7 @@ Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-e
 
 **Colaboração:** Empresa JJM Log, oferece serviços de logística, localizada em São José dos Campos, com os professores Sabha e Juliana como, respectivamente, M2 e P2.
 
-**O projeto foi** o desenvolvimento de uma plataforma web integrada para otimização dos fluxos de trabalho da empresa JJM Log. O sistema visa facilitar a colaboração entre setores, melhorar a gestão de entregas e automatizar tarefas administrativas. Desenvolvido em JavaScript e TypeScript, com arquitetura MVC, o projeto prioriza organização e manutenibilidade do código. Todo o processo está documentado no GitHub, garantindo versionamento e controle.
+**A empresa JJM Log propôs** o desenvolvimento de uma plataforma web integrada para otimização dos fluxos de trabalho. O sistema visa facilitar a colaboração entre setores, melhorar a gestão de entregas e automatizar tarefas administrativas. Desenvolvido em JavaScript e TypeScript, com arquitetura MVC, o projeto prioriza organização e manutenibilidade do código. Todo o processo está documentado no GitHub, garantindo versionamento e controle.
 
 **O problema apresentado** consistia na dificuldade no gerenciamento logístico da empresa, causada pela ausência de integração entre os setores e falhas na comunicação interna. Isso impactava negativamente a eficiência dos processos, gerando retrabalho e atrasos no atendimento às demandas internas.
 
@@ -494,7 +494,7 @@ Eu também participei da definição das funcionalidades do sistema, que inclui 
 
 **Colaboração:** Empresa GSW Software, oferece serviços de software, localizada em São José dos Campos, com os professores Ronaldo e Gerson como, respectivamente, M2 e P2.
 
-**O projeto foi** o desenvolvimento de um aplicativo móvel para facilitar o processo de solicitação e controle de reembolsos corporativos. Utilizando tecnologias como Expo, Node.js e MongoDB, a solução foi pensada para proporcionar praticidade, precisão e centralização no registro das despesas, beneficiando tanto os colaboradores quanto os setores responsáveis pela análise e aprovação.
+**A empresa GWS Software propôs** o desenvolvimento de um aplicativo móvel para facilitar o processo de solicitação e controle de reembolsos corporativos. Utilizando tecnologias como Expo, Node.js e MongoDB, a solução foi pensada para proporcionar praticidade, precisão e centralização no registro das despesas, beneficiando tanto os colaboradores quanto os setores responsáveis pela análise e aprovação.
 
 **O problema apresentado** estava na gestão ineficiente de reembolsos, realizada manualmente por meio de formulários físicos ou planilhas descentralizadas. Isso causava inconsistências nos dados, atrasos no processamento e dificuldades na auditoria, além da falta de padronização nas informações, comprometendo a transparência e o controle interno.
 
