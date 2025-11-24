@@ -15,7 +15,7 @@
 <h2 align='center'>🌐 Introdução 🌐</h2>
    <img src="images/ErikZFerraz.png" width="200" height="200" align="left" style="margin-right: 15px; margin-bottom: 10px;"/>
   <p style="text-align: justify;">
-    Atualmente, sou estudante do 5º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, em São José dos Campos. Minha paixão pela tecnologia começou especialmente na criação de websites, softwares e jogos.
+    Formando no curso de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, em São José dos Campos. Minha paixão pela tecnologia começou especialmente na criação de websites, softwares e jogos.
 
 Meu primeiro contato com programação foi ainda na infância, quando criei modificações (mods, patches e scripts) para jogos como Counter-Strike 1.6, GTA: San Andreas, Half-Life e Minecraft. Essa experiência despertou meu interesse por tecnologia. Com o tempo, comecei a aprender por conta própria linguagens como HTML, CSS e também bancos de dados, usando projetos encontrados na internet. Foi aí que descobri minha vocação para a área e decidi prestar vestibular para a Fatec, onde hoje curso Análise e Desenvolvimento de Sistemas.
 
