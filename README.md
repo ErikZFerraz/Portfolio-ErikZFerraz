@@ -620,3 +620,127 @@ Neste projeto, atuei como **Scrum Master**, coordenando o desenvolvimento do sis
 --->
 
 > [Voltar ao topo](#topo)
+
+<span id='6'></span>
+<h1></h1>
+
+# Plataforma de Nutrição Personalizada com IA Generativa – Xertica.ai – 2025-2 (6º Semestre)
+
+### 📊 PROJETO
+
+**Colaboração:** Empresa **Xertica.ai**, especializada em soluções de IA corporativas, com o professor **Walmir Duque** como orientador técnico.
+
+**A empresa Xertica.ai propôs** o desenvolvimento de uma plataforma digital inteligente focada em personalização nutricional em escala. A proposta buscava fornecer planos alimentares ajustados às necessidades individuais dos colaboradores, utilizando IA Generativa para otimizar recomendações e promover hábitos saudáveis.
+
+**O problema apresentado** consistia na dificuldade de oferecer planos nutricionais personalizados para um grande número de colaboradores, já que modelos genéricos não atendiam às necessidades específicas de cada pessoa. Isso diminuía a efetividade dos programas corporativos de saúde.
+
+**Como solução**, foi desenvolvida uma plataforma web que integra um **agente conversacional de IA Generativa**, permitindo ao usuário obter recomendações nutricionais personalizadas, registrar sua evolução e acessar informações úteis para melhorar sua rotina. Entre as funcionalidades principais estão o **acompanhamento do progresso de emagrecimento**, a **busca inteligente por academias e locais fit próximos ao usuário**, além de interfaces construídas a partir de um **design inicial focado em clareza e bem-estar**.
+
+> Acesse o repositório deste projeto clicando [aqui!](https://github.com/DriftOps/API-VI)
+
+<img src="images/NutriX.png"/>
+
+<h1></h1>
+
+## 🌐 Tecnologias Utilizadas
+
+<div>
+  <span>
+    <img align="center" alt="Vue" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"><b>Vue + TypeScript</b> - </img>
+  </span>
+  <span>
+    Utilizado para desenvolvimento da plataforma web, garantindo interfaces modernas e reativas.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><b>Java + Spring Boot + JPA</b> - </img>
+  </span>
+  <span>
+    Utilizado no backend para criação das regras de negócio, APIs e integração com banco de dados.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><b>Python + IA Generativa</b> - </img>
+  </span>
+  <span>
+    Utilizado para RAG, fine-tuning e processamento inteligente das recomendações nutricionais.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"><b>PostgreSQL</b> - </img>
+  </span>
+  <span>
+    Banco de dados relacional utilizado para armazenar informações de usuários e progresso nutricional.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"><b>Figma</b> - </img>
+  </span>
+  <span>
+    Utilizado para prototipação e desenvolvimento do design inicial da aplicação.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="Slack" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg"><b>Slack</b> - </img>
+  </span>
+  <span>
+    Usado como principal canal de comunicação da equipe.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
+    <img align="center" alt="Trello" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"><b>Trello</b> - </img>
+  </span>
+  <span>
+    Utilizado para gerenciamento de tarefas e acompanhamento das sprints.
+  </span>
+</div>
+
+<h1></h1>
+
+## 💡 Contribuições Pessoais
+
+Como membro do **DevTeam**, atuei de forma direta no desenvolvimento de funcionalidades essenciais da aplicação e na construção da experiência inicial do usuário. Entre minhas principais contribuições, destacam-se:
+
+- Desenvolvimento completo do módulo de **progresso de emagrecimento**, permitindo ao usuário acompanhar sua evolução de forma clara e visual.  
+- Criação da funcionalidade de **busca por academias e locais fit próximos**, integrada à geolocalização para auxiliar na rotina saudável do usuário.  
+- Elaboração do **design inicial da aplicação no Figma**, definindo padrões visuais, fluxos e diretrizes de UX.  
+- Participação ativa na padronização visual das telas para garantir consistência e melhor experiência de uso.  
+- Colaboração com backend e frontend na integração das novas funcionalidades e definição da estrutura geral do projeto.  
+
+
+## 🛠️ Hard Skills
+
+- **Vue + TypeScript** – Uso com autonomia  
+- **Java + Spring Boot + JPA** – Uso com suporte  
+- **PostgreSQL** – Uso com autonomia  
+- **RESTful APIs** – Uso com suporte  
+- **Python + IA Generativa** – Uso com suporte  
+- **Git/GitHub** – Uso com autonomia  
+- **Figma** – Uso com autonomia  
+
+
+## 🧠 Soft Skills
+
+- **Adaptabilidade**: Aprendi rapidamente novas tecnologias, me adequando à nova stack e garantindo qualidade nas entregas.  
+- **Comunicação clara**: Mantive alinhamentos constantes com o time e participei das decisões de UX/UI.  
+- **Colaboração**: Contribuí de forma ativa na criação e melhoria das interfaces e funcionalidades, sempre buscando melhorar a experiência do usuário.  
+
+> [Voltar ao topo](#topo)
