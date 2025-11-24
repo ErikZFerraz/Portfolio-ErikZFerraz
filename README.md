@@ -19,7 +19,7 @@
 
 Meu primeiro contato com programação foi ainda na infância, quando criei modificações (mods, patches e scripts) para jogos como Counter-Strike 1.6, GTA: San Andreas, Half-Life e Minecraft. Essa experiência despertou meu interesse por tecnologia. Com o tempo, comecei a aprender por conta própria linguagens como HTML, CSS e também bancos de dados, usando projetos encontrados na internet. Foi aí que descobri minha vocação para a área e decidi prestar vestibular para a Fatec, onde hoje curso Análise e Desenvolvimento de Sistemas.
 
-Atualmente, sou estagiário na Secretaria da Educação de Caçapava, onde presto suporte técnico em TI. Minhas responsabilidades incluem a manutenção e o conserto de equipamentos, além de realizar visitas às escolas para resolver problemas técnicos específicos. Esse estágio tem me proporcionado uma valiosa experiência em suporte de TI e no atendimento ao cliente.
+Com experiência como estagiário na Secretaria da Educação de Caçapava, onde prestei suporte técnico em TI, minhas responsabilidades incluíam a manutenção e o conserto de equipamentos, além de realizar visitas às escolas para resolver problemas técnicos específicos. Esse estágio me proporcionou uma valiosa experiência em suporte de TI e no atendimento ao cliente.
 
 No campo do desenvolvimento de software, estou focando em aprimorar minhas habilidades no back-end e me aprofundar em bancos de dados relacionais. Além do aprendizado técnico, essa trajetória tem me permitido desenvolver habilidades interpessoais importantes, como comunicação, trabalho em equipe e resolução de problemas, que são essenciais para uma carreira de sucesso na área de tecnologia.
 
