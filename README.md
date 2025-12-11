@@ -582,43 +582,33 @@ Eu também participei da definição das funcionalidades do sistema, que inclui 
 
 ## 💡 Contribuições Pessoais
 
-Neste projeto, como **Scrum Master**, atuei de forma intensa no **DevTeam**, participando da **prototipação** no **Figma** e contribuindo com sugestões de design e usabilidade. Fui responsável pelo desenvolvimento do **frontend** com **React Native** e **TypeScript**, criando interfaces dinâmicas e responsivas. Realizei **commits frequentes no GitHub**, garantindo a correta versão das atualizações, e também ajudei na definição de funcionalidades-chave, como o gerenciamento de reembolsos e visualização de históricos.
+Neste projeto atuei como **Scrum Master**, Entre minhas principais contribuições, destacam-se:
 
+- Facilitação das cerimônias ágeis, incluindo **daily meetings**, **planning**, **review** e **retrospective**, garantindo alinhamento e fluxo contínuo de trabalho.  
+- Organização e acompanhamento das **sprints**, assegurando a priorização adequada das demandas e o cumprimento dos objetivos definidos.  
+- Participação ativa na construção do **frontend** utilizando **React Native** e **TypeScript**, contribuindo com o desenvolvimento de interfaces dinâmicas, responsivas e alinhadas ao design do produto.  
+- Apoio na definição de funcionalidades essenciais do sistema, como o **gerenciamento de reembolsos** e a **visualização de históricos**, auxiliando na estruturação do backlog.  
+- Contribuição no processo de **prototipação e design** no Figma, trazendo sugestões de usabilidade e melhorias visuais para o produto.  
+
+<!---
+Neste projeto, atuei como **Scrum Master**, conduzindo o processo ágil e apoiando diretamente o time de desenvolvimento. Como esta foi minha primeira experiência formal na função, contei com o suporte do colega **Kalil**, o que contribuiu para uma condução mais consistente das cerimônias e responsabilidades do papel. Entre minhas principais contribuições, destacam-se:
+## 💡 Contribuições Pessoais
+
+Neste projeto, atuei como **Scrum Master**, coordenando o desenvolvimento do sistema e garantindo que as práticas ágeis de Scrum fossem seguidas corretamente. Fui responsável por facilitar as reuniões diárias, planejar as sprints e gerenciar a comunicação entre os membros da equipe. Além disso, também participei da implementação do **frontend** utilizando **React Native** e **TypeScript**, criando uma interface dinâmica e responsiva, e da definição das funcionalidades essenciais, como o gerenciamento de reembolsos e a visualização de históricos.
+--->
 
 ## 🛠️ Hard Skills
 
 - **Desenvolvimento Frontend com React Native e TypeScript** – Realizo com autonomia  
-- **Prototipação e Design de Interfaces com Figma** – Realizo com autonomia  
+- **Prototipação e Design de Interfaces no Figma** – Realizo com autonomia  
 - **Controle de versão com Git/GitHub** – Realizo com autonomia  
-- **Metodologias Ágeis com Scrum** – Tenho familiaridade  
-
-
-## 🧠 Soft Skills
-
-- **Trabalho em equipe**: Colaborei de maneira eficaz com os membros da equipe, contribuindo para o bom andamento das tarefas e mantendo uma comunicação fluida para resolver problemas de desenvolvimento  
-- **Disposição para aprender**: Durante o projeto, estive em constante aprendizado de novas tecnologias e práticas de desenvolvimento, demonstrando adaptabilidade e proatividade na busca de soluções e aprimoramento técnico  
-- **Comunicação**: Mantive um canal de comunicação aberto com a equipe e com o cliente, garantindo que as expectativas fossem compreendidas e alinhadas ao longo do desenvolvimento do projeto  
-
-<!---
-## 💡 Contribuições Pessoais
-
-Neste projeto, atuei como **Scrum Master**, coordenando o desenvolvimento do sistema e garantindo que as práticas ágeis de Scrum fossem seguidas corretamente. Fui responsável por facilitar as reuniões diárias, planejar as sprints e gerenciar a comunicação entre os membros da equipe. Além disso, também participei da implementação do **frontend** utilizando **React Native** e **TypeScript**, criando uma interface dinâmica e responsiva, e da definição das funcionalidades essenciais, como o gerenciamento de reembolsos e a visualização de históricos.
-
-
-## 🛠️ Hard Skills
-
-- **Gestão de Projetos com Scrum** - Realizo com autonomia.
-- **Desenvolvimento Frontend com React Native e TypeScript** - Realizo com autonomia.
-- **Prototipação e Design de Interfaces com Figma** - Realizo com autonomia.
-- **Controle de versão com GitHub** - Realizo com autonomia.
-
+- **Metodologias Ágeis (Scrum)** – Atuação prática com familiaridade
 
 ## 🧠 Soft Skills
 
-- **Liderança e Gestão de Equipe**: Como Scrum Master, fui responsável pela organização e motivação da equipe, garantindo que os objetivos fossem cumpridos dentro dos prazos estabelecidos.
-- **Comunicação Eficaz**: Mantive uma comunicação clara e eficiente com a equipe, facilitando o fluxo de informações e garantindo que todos estivessem alinhados quanto aos objetivos do projeto.
-- **Resolução de Problemas**: Enfrentei e resolvi desafios durante o desenvolvimento, buscando soluções criativas para garantir que o produto final atendesse às expectativas do cliente.
---->
+Como **Scrum Master** neste projeto por ser minha primeira experiência formal como líder de equipe, contei com o apoio e orientação do colega **Kalil**, que me ajudou a conduzir o processo de desenvolvimento e assegurando o alinhamento da equipe às práticas ágeis do Scrum. O que contribuiu para uma condução mais consistente e colaborativa do processo. Fui responsável por facilitar as cerimônias ágeis, organizar o planejamento das sprints e promover a comunicação eficaz entre os membros da equipe.  
+
+Além das funções de liderança, participei ativamente do desenvolvimento do **frontend** com **React Native** e **TypeScript**, contribuindo para a construção de uma interface dinâmica, responsiva e alinhada às necessidades do produto. Também auxiliei na definição das funcionalidades essenciais, como o gerenciamento de reembolsos e a visualização de históricos.
 
 > [Voltar ao topo](#topo)
 
@@ -737,11 +727,8 @@ Como membro do **DevTeam**, atuei de forma direta no desenvolvimento de funciona
 - **Git/GitHub** – Uso com autonomia  
 - **Figma** – Uso com autonomia  
 
-
 ## 🧠 Soft Skills
 
-- **Adaptabilidade**: Aprendi rapidamente novas tecnologias, me adequando à nova stack e garantindo qualidade nas entregas.  
-- **Comunicação clara**: Mantive alinhamentos constantes com o time e participei das decisões de UX/UI.  
-- **Colaboração**: Contribuí de forma ativa na criação e melhoria das interfaces e funcionalidades, sempre buscando melhorar a experiência do usuário.  
+Ao longo do desenvolvimento, enfrentei uma **dificuldade inicial no uso de tecnologias de IA**, especialmente nas etapas que envolviam geração de conteúdo e suporte automatizado. No entanto, com o apoio dos colegas de equipe, fui capaz de compreender melhor as ferramentas, adotá-las de forma eficiente e evoluir significativamente no uso dessas tecnologias dentro do fluxo de trabalho. Essa experiência fortaleceu minha capacidade de aprendizado contínuo, aprimorou minha adaptabilidade e reforçou minha colaboração com o time, resultando em entregas mais completas e alinhadas às necessidades do projeto.
 
 > [Voltar ao topo](#topo)
