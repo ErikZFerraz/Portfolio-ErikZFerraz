@@ -135,6 +135,16 @@ Estou comprometido com um processo contínuo de crescimento e sempre em busca de
 
 <div>
   <span>
+    <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"><b>MySQL</b> - </img>
+  </span>
+  <span>
+    Utilizada para gerenciamento e armazenamento de dados.
+  </span>
+</div>
+<br>
+
+<div>
+  <span>
     <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><b>Python</b> - </img>
   </span>
   <span>
@@ -166,10 +176,10 @@ Como membro do **DevTeam**, atuei diretamente na criação da **estrutura visual
 
 ## 🛠️ Hard Skills
 
-- **Desenvolvimento web utilizando HTML** – Realizo com autonomia.  
-- **Estilização das páginas web utilizando CSS** – Realizo com autonomia.  
-- **Plotagem de gráficos utilizando Python** – Realizo com auxílio.  
-- **Hospedagem utilizando Python, Flask e Heroku** – Realizo com auxílio.
+- **Desenvolvimento web com HTML** – Realizo com autonomia, estruturando páginas de forma semântica e organizada.  
+- **Estilização de páginas com CSS** – Realizo com autonomia, criando layouts responsivos e visualmente consistentes.  
+- **Plotagem de gráficos com Python** – Realizo com auxílio, utilizando bibliotecas para visualização de dados.  
+- **Hospedagem de aplicações com Python, Flask e Heroku** – Realizo com auxílio, configurando ambientes e publicando aplicações na nuvem.  
 
 ## 🧠 Soft Skills
 
@@ -366,10 +376,10 @@ Como membro do **DevTeam**, participei ativamente da construção das funcionali
 
 ## 🛠️ Hard Skills
 
-- **Desenvolvimento utlizando a linguagem JavaScript** - Realizo com auxílio.
-- **Elaboração do front-end utilizando React** - Realizo com autonomia.
-- **Controle de versão com GitHub** - Realizo com autonomia.
-- **SCSS Pré-processador CSS** – Realizo com auxílio, facilita a organização e reutilização de estilos;
+- **Desenvolvimento utilizando JavaScript** – Realizo com auxílio, aplicando lógica e funcionalidades essenciais ao sistema.  
+- **Construção de interfaces com React** – Realizo com autonomia, criando componentes reutilizáveis e garantindo uma experiência fluida ao usuário.  
+- **Controle de versão com GitHub** – Realizo com autonomia, mantendo o versionamento organizado e colaborando de forma eficiente com a equipe.  
+- **Utilização de SCSS como pré-processador CSS** – Realizo com auxílio, estruturando estilos de forma modular e favorecendo a reutilização de código.  
 
 ## 🧠 Soft Skills
 
@@ -474,10 +484,10 @@ Como membro do **DevTeam**, atuei diretamente na construção da interface e na 
 
 ## 🛠️ Hard Skills
 
-- **Desenvolvimento Frontend com React e TypeScript** - Realizo com autonomia.
-- **Design de Interfaces com Figma** - Realizo com autonomia.
-- **Controle de versão com GitHub** - Realizo com autonomia.
-- **Gerenciamento de projetos com Trello** - Realizo com autonomia.
+- **Desenvolvimento Frontend com React e TypeScript** – Realizo com autonomia, criando interfaces dinâmicas, tipadas e de fácil manutenção.  
+- **Design de Interfaces com Figma** – Realizo com autonomia, definindo layouts, fluxos e padrões visuais centrados na experiência do usuário.  
+- **Controle de versão com GitHub** – Realizo com autonomia, organizando branches, pull requests e garantindo um fluxo de colaboração eficiente.  
+- **Gerenciamento de projetos com Trello** – Realizo com autonomia, planejando tarefas, acompanhando entregas e estruturando o fluxo de trabalho da equipe.  
 
 ## 🧠 Soft Skills
 
@@ -596,13 +606,12 @@ Neste projeto, atuei como **Scrum Master**, conduzindo o processo ágil e apoian
 
 Neste projeto, atuei como **Scrum Master**, coordenando o desenvolvimento do sistema e garantindo que as práticas ágeis de Scrum fossem seguidas corretamente. Fui responsável por facilitar as reuniões diárias, planejar as sprints e gerenciar a comunicação entre os membros da equipe. Além disso, também participei da implementação do **frontend** utilizando **React Native** e **TypeScript**, criando uma interface dinâmica e responsiva, e da definição das funcionalidades essenciais, como o gerenciamento de reembolsos e a visualização de históricos.
 --->
-
 ## 🛠️ Hard Skills
 
-- **Desenvolvimento Frontend com React Native e TypeScript** – Realizo com autonomia  
-- **Prototipação e Design de Interfaces no Figma** – Realizo com autonomia  
-- **Controle de versão com Git/GitHub** – Realizo com autonomia  
-- **Metodologias Ágeis (Scrum)** – Atuação prática com familiaridade
+- **Desenvolvimento Frontend com React Native e TypeScript** – Realizo com autonomia, criando interfaces mobile performáticas e bem estruturadas.  
+- **Prototipação e Design de Interfaces no Figma** – Realizo com autonomia, definindo fluxos, layouts e padrões visuais centrados na experiência do usuário.  
+- **Controle de versão com Git/GitHub** – Realizo com autonomia, mantendo organização no versionamento e colaborando de forma eficiente com a equipe.  
+- **Metodologias Ágeis (Scrum)** – Atuação prática com familiaridade, participando de rituais e contribuindo para a organização e entrega contínua do projeto.  
 
 ## 🧠 Soft Skills
 
@@ -716,19 +725,18 @@ Como membro do **DevTeam**, atuei de forma direta no desenvolvimento de funciona
 - Participação ativa na padronização visual das telas para garantir consistência e melhor experiência de uso.  
 - Colaboração com backend e frontend na integração das novas funcionalidades e definição da estrutura geral do projeto.  
 
-
 ## 🛠️ Hard Skills
 
-- **Vue + TypeScript** – Uso com autonomia  
-- **Java + Spring Boot + JPA** – Uso com suporte  
-- **PostgreSQL** – Uso com autonomia  
-- **RESTful APIs** – Uso com suporte  
-- **Python + IA Generativa** – Uso com suporte  
-- **Git/GitHub** – Uso com autonomia  
-- **Figma** – Uso com autonomia  
+- **Vue + TypeScript** – Realizo com autonomia, desenvolvendo interfaces dinâmicas, escaláveis e bem estruturadas.  
+- **Java + Spring Boot + JPA** – Realizo com suporte, implementando APIs, regras de negócio e persistência de dados.  
+- **PostgreSQL** – Realizo com autonomia, modelando bancos de dados, escrevendo queries e garantindo integridade das informações.  
+- **Desenvolvimento de RESTful APIs** – Realizo com suporte, aplicando boas práticas de integração e comunicação entre serviços.  
+- **Python + IA Generativa** – Realizo com suporte, explorando automações, análises e integrações com modelos de IA.  
+- **Git/GitHub** – Realizo com autonomia, mantendo versionamento organizado e colaborando de forma eficiente com a equipe.  
+- **Figma** – Realizo com autonomia, produzindo layouts, protótipos e sistemas visuais focados em usabilidade.  
 
 ## 🧠 Soft Skills
 
-Ao longo do desenvolvimento, enfrentei uma **dificuldade inicial no uso de tecnologias de IA**, especialmente nas etapas que envolviam geração de conteúdo e suporte automatizado. No entanto, com o apoio dos colegas de equipe, fui capaz de compreender melhor as ferramentas, adotá-las de forma eficiente e evoluir significativamente no uso dessas tecnologias dentro do fluxo de trabalho. Essa experiência fortaleceu minha capacidade de aprendizado contínuo, aprimorou minha adaptabilidade e reforçou minha colaboração com o time, resultando em entregas mais completas e alinhadas às necessidades do projeto.
+Ao longo do desenvolvimento, enfrentei uma dificuldade inicial no uso de tecnologias de IA, especialmente nas etapas que envolviam geração de conteúdo e suporte automatizado. No entanto, com o apoio dos colegas de equipe, fui capaz de compreender melhor as ferramentas, adotá-las de forma eficiente e evoluir significativamente no uso dessas tecnologias dentro do fluxo de trabalho. Essa experiência fortaleceu minha capacidade de aprendizado contínuo, aprimorou minha adaptabilidade e reforçou minha colaboração com o time, resultando em entregas mais completas e alinhadas às necessidades do projeto.
 
 > [Voltar ao topo](#topo)
