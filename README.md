@@ -14,7 +14,7 @@
 
 <h2 align='center'>🌐 Introdução 🌐</h2>
 </div>
-   <img src="images/ErikZFerraz.png" height="220" align="left" style="margin-right: 15px; margin-bottom: 10px;"/>
+   <img src="images/ErikZFerraz.png" height="230" align="left" style="margin-right: 15px; margin-bottom: 10px;"/>
   <p style="text-align: justify;">
 Formando no curso de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, em São José dos Campos. Minha paixão pela tecnologia começou especialmente na criação de websites, softwares e jogos.
 
