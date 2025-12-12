@@ -156,7 +156,13 @@ Estou comprometido com um processo contínuo de crescimento e sempre em busca de
 
 ## 💡 Contribuições Pessoais
 
-Neste projeto, fui responsável pela estruturação e estilização das páginas utilizando **HTML5** e **CSS3**, criando uma interface acessível e intuitiva para os usuários. Além disso, implementei funcionalidades interativas com **JavaScript**, proporcionando uma experiência dinâmica e fluida. Também participei da organização e do processamento dos dados de ordens de serviço, colaborando na implementação das funcionalidades de reporte de equipamentos com mau funcionamento, tanto em hardware quanto em software, de forma eficiente e fácil de utilizar.
+Como membro do **DevTeam**, atuei diretamente na criação da **estrutura visual e funcional** do projeto, garantindo uma interface consistente, acessível e fluida. Minhas principais contribuições incluem:
+
+- Estruturação completa das páginas utilizando **HTML5**, organizando o conteúdo de forma semântica para melhorar a acessibilidade e a manutenção do código.  
+- Desenvolvimento da camada de **estilização com CSS3**, definindo padrões visuais, layout responsivo e componentes reutilizáveis para uma experiência agradável em diferentes dispositivos.  
+- Implementação de **funcionalidades interativas com JavaScript**, proporcionando dinamismo às páginas e aprimorando a interação do usuário com o sistema.  
+- Participação ativa no **processamento e organização dos dados de ordens de serviço**, estruturando fluxos eficientes para exibição e manipulação dessas informações.  
+- Desenvolvimento das funcionalidades de **reporte de equipamentos com mau funcionamento** (hardware e software), garantindo usabilidade intuitiva e processos claros para o usuário final.  
 
 ## 🛠️ Hard Skills
 
@@ -167,19 +173,7 @@ Neste projeto, fui responsável pela estruturação e estilização das páginas
 
 ## 🧠 Soft Skills
 
-<!---
-Trabalho em equipe – Atuei como parte do time de desenvolvimento, contribuindo com tarefas essenciais para o avanço do projeto. Mesmo com menos experiência técnica que os demais integrantes, colaborei com entregas pontuais, participei de decisões básicas de estruturação e mantive uma boa relação com a equipe, o que favoreceu a cooperação ao longo do processo.
-
-Proatividade – Aproveitei a oportunidade para me aprofundar nas tecnologias utilizadas, buscando entender o funcionamento do projeto e aprender com os colegas mais experientes. Contribuí com pequenas implementações e fui responsável por aplicar conceitos como organização de páginas com HTML e estilização básica com CSS.
-
-Organização – Mantive uma rotina de estudos e tarefas bem definida para acompanhar o ritmo do grupo. Com isso, mesmo assumindo funções mais simples, consegui entregar minhas partes com responsabilidade, contribuindo para o cumprimento dos prazos e para a consistência do trabalho em equipe.
---->
-
-- **Trabalho em equipe** – Durante o desenvolvimento, realizei entregas rápidas para evitar atrasos, colaborei com sugestões técnicas (como o uso de grids e containers com CSS para estruturação das páginas) e priorizei a boa convivência, criando afinidade com meus colegas de equipe.
-
-- **Proatividade** – Por ser recém-integrado à área, diferente dos colegas já familiarizados com programação, me dediquei a pesquisas aprofundadas nas tecnologias utilizadas, compartilhei experiências com o time e contribuí ativamente com o grupo. Nesses estudos, aprendi diferentes técnicas de estruturação de páginas HTML, uso de folhas de estilo com CSS e introdução à responsividade entre dispositivos.
-
-- **Comunicação** – Mantive uma comunicação aberta para garantir a organização do grupo, além de interagir com o cliente para esclarecer dúvidas e alinhar suas expectativas com o produto final.
+Por ser recém-integrado à área, diferente dos colegas já familiarizados com programação, me dediquei a pesquisas aprofundadas nas tecnologias utilizadas, compartilhei experiências com o time e contribuí ativamente com o grupo. Nesses estudos, aprendi diferentes técnicas de estruturação de páginas HTML e mantive uma postura aberta para aprender com os colegas mais experientes, o que me ajudou a absorver rapidamente os conceitos do projeto e aplicar pequenas implementações. Também explorei o uso de folhas de estilo e dei meus primeiros passos na responsividade entre dispositivos, sempre buscando compreender melhor as ferramentas por conta própria para acompanhar o ritmo da equipe. Mantive comprometimento ao longo do processo e evoluí continuamente dentro do desenvolvimento.
 
 > [Voltar ao topo](#topo)
 <span id='2'>
@@ -259,10 +253,14 @@ Organização – Mantive uma rotina de estudos e tarefas bem definida para acom
 
 ## 💡 Contribuições Pessoais
 
-Durante o desenvolvimento, fui responsável pela implementação da **lógica do assistente virtual** em **Java**, que processa as perguntas dos usuários e encontra as respostas nos documentos fornecidos. Também fui responsável pela integração entre o sistema de leitura de documentos e a parte de resposta, garantindo que as consultas ao documento fossem eficientes.
+Como membro do **DevTeam**, atuei diretamente na criação das funcionalidades centrais do sistema e na construção de uma experiência de uso eficiente e intuitiva. Entre minhas principais contribuições, destacam-se:
 
-Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para criar uma experiência de usuário interativa. Trabalhei na configuração do ambiente de desenvolvimento no **NetBeans IDE** e **Eclipse**, e também na criação de testes unitários para garantir a qualidade do código. Utilizei **MySQL** para o armazenamento de dados de usuários e registros de interações.
-
+- Implementação completa da **lógica do assistente virtual em Java**, responsável por interpretar perguntas dos usuários e localizar respostas nos documentos fornecidos.  
+- Integração entre o módulo de **leitura e processamento de documentos** e o mecanismo de resposta, garantindo consultas rápidas, precisas e bem estruturadas.  
+- Desenvolvimento da **interface gráfica com JavaFX**, proporcionando uma interação dinâmica, organizada e visualmente agradável ao usuário.  
+- Configuração do ambiente de desenvolvimento em **NetBeans IDE** e **Eclipse**, facilitando a organização do projeto e o fluxo de trabalho da equipe.  
+- Criação de **testes unitários** para assegurar a qualidade, estabilidade e confiabilidade das funcionalidades desenvolvidas.  
+- Uso de **MySQL** para armazenamento e gerenciamento dos dados de usuários e do histórico de interações, garantindo persistência e segurança das informações.  
 
 ## 🛠️ Hard Skills
 
@@ -275,11 +273,7 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 
 ## 🧠 Soft Skills
 
-- **Trabalho em equipe** – Trabalhei em estreita colaboração com outros membros da equipe para desenvolver as funcionalidades de forma integrada e eficiente, garantindo uma boa comunicação entre os membros.  
-
-- **Proatividade** – Durante o desenvolvimento, tomei a iniciativa de implementar novas funcionalidades para melhorar o desempenho do assistente, como a otimização na busca de respostas nos documentos.  
-
-- **Comunicação** – Mantive uma comunicação contínua com o cliente para alinhar as expectativas do projeto e garantir que o assistente atendesse adequadamente às necessidades dele.
+Durante o projeto, aprimorei habilidades como comunicação e proatividade. A responsabilidade de desenvolver o sistema de login e cadastro em Java exigiu um contato frequente com a equipe, garantindo alinhamento das tarefas e facilitando a resolução de imprevistos. Além disso, em vários momentos busquei alternativas para superar desafios, esclareci dúvidas e sugeri ajustes tanto no código quanto na organização dos materiais. Essa postura colaborativa contribuiu diretamente para o andamento eficiente do projeto e para que as entregas fossem concluídas com qualidade e dentro dos prazos definidos.
 
 > [Voltar ao topo](#topo)
 <span id='3'>
@@ -289,7 +283,7 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 
 ### 📊 PROJETO
 
-**Colaboração:** Empresa Pro4Tech, oferece serviços web, localizada em São José dos Campos, com os professores Masanori e Cláudio como, respectivamente, P2 e M2.
+**Colaboração:** Empresa **Pro4Tech**, oferece serviços web, localizada em São José dos Campos, com os professores Masanori e Cláudio como, respectivamente, P2 e M2.
 
 **A empresa Pro4Tech propôs** desenvolver uma aplicação web dinâmica para análise de dados de vendas, oferecendo uma ferramenta acessível, intuitiva e inteligente. A solução permite uma visão clara do desempenho comercial, auxiliando na tomada de decisões estratégicas com base em dados concretos. Desenvolvida com React (front-end) e Node.js (back-end), a aplicação importa dados de planilhas Excel e os apresenta em dashboards interativos, com filtros personalizados e cálculo automatizado de comissões.
 
@@ -363,21 +357,25 @@ Além disso, atuei no desenvolvimento da interface, utilizando **JavaFX** para c
 
 ## 💡 Contribuições Pessoais
 
-Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-end quanto para o front-end da aplicação. No back-end, desempenhei um papel ativo em tarefas relacionadas à exibição de informações, como a configuração e o gerenciamento do registro de usuários utilizando o JavaScript. Além disso, trabalhei na implementação de funcionalidades para proporcionar uma experiência de usuário fluida e intuitiva. No front-end utilizei o React, participei da estilização da aplicação e assegurei sua responsividade. Ao colaborar em ambas as áreas, integrei efetivamente as diferentes partes do sistema, garantindo sua coesão como um todo.
+Como membro do **DevTeam**, participei ativamente da construção das funcionalidades essenciais da aplicação, contribuindo tanto no back-end quanto no front-end. Entre minhas principais entregas, destacam-se:
 
+- Desenvolvimento de funcionalidades no **back-end com JavaScript**, incluindo configuração e gerenciamento do **registro de usuários** e exibição dinâmica de informações.  
+- Implementação de recursos voltados à **experiência do usuário**, garantindo interações fluidas, intuitivas e consistentes em todo o sistema.  
+- Atuação no **front-end com React**, construindo componentes, integrando-os ao fluxo da aplicação e assegurando uma interface coesa.  
+- Participação na **estilização e responsividade**, garantindo que a aplicação se adaptasse corretamente a diferentes dispositivos e mantivesse uma identidade visual uniforme.  
 
 ## 🛠️ Hard Skills
 
-- **Desenvolvimento utlizando a linguagem JavaScript** - Realizo com auxílio
-- **Elaboração do front-end utilizando React** - Realizo com autonomia
+- **Desenvolvimento utlizando a linguagem JavaScript** - Realizo com auxílio.
+- **Elaboração do front-end utilizando React** - Realizo com autonomia.
+- **Controle de versão com GitHub** - Realizo com autonomia.
+- **SCSS Pré-processador CSS** – Realizo com auxílio, facilita a organização e reutilização de estilos;
 
 ## 🧠 Soft Skills
 
-* <b>Colaboração</b> - Durante o desenvolvimento da responsividade no front-end, trabalhei em estreita colaboração com um colega para resolver um problema crítico na renderização de componentes em diferentes dispositivos. Compartilhamos conhecimentos sobre React e testamos juntos várias abordagens até alcançar uma solução funcional, o que resultou em uma interface adaptável e eficiente para os usuários.
-* <b>Gestão do tempo</b> - Utilizei técnicas de organização e priorização para otimizar meu tempo de trabalho, garantindo o cumprimento dos prazos e entregas do projeto de maneira eficaz.
-* <b>Resiliência</b> -  Ao me deparar com dificuldades na adaptação à linguagem JavaScript, especialmente ao lidar com padrões de microserviços, busquei aprimorar minhas habilidades por meio de tutoriais práticos e revisões de código.
+Ao longo do desenvolvimento do projeto, tive a oportunidade de fortalecer diversas habilidades importantes para o trabalho em equipe. Durante a etapa de implementação da responsividade no front-end, colaborei diretamente com um colega para solucionar um problema crítico na renderização de componentes em diferentes dispositivos. Trabalhamos lado a lado, compartilhando conhecimentos sobre React e testando diferentes abordagens até alcançarmos uma solução estável, o que resultou em uma interface mais adaptável e eficiente para os usuários.
 
-<br>
+Mantive também uma rotina de organização e priorização de tarefas, aplicando técnicas de gestão do tempo que me ajudaram a cumprir prazos e a garantir que as entregas fossem feitas de forma consistente. Além disso, enfrentei desafios na adaptação à linguagem JavaScript, especialmente no contexto de padrões aplicados a microserviços. Para superar essas dificuldades, busquei materiais de estudo, acompanhei tutoriais práticos e revisei códigos com atenção, fortalecendo minha resiliência e aprimorando meu desempenho ao longo do projeto.
 
 > [Voltar ao topo](#topo)
 <span id='4'>
@@ -387,7 +385,7 @@ Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-e
 
 ### 📊 PROJETO
 
-**Colaboração:** Empresa JJM Log, oferece serviços de logística, localizada em São José dos Campos, com os professores Sabha e Juliana como, respectivamente, M2 e P2.
+**Colaboração:** Empresa **JJM Log**, oferece serviços de logística, localizada em São José dos Campos, com os professores Sabha e Juliana como, respectivamente, M2 e P2.
 
 **A empresa JJM Log propôs** o desenvolvimento de uma plataforma web integrada para otimização dos fluxos de trabalho. O sistema visa facilitar a colaboração entre setores, melhorar a gestão de entregas e automatizar tarefas administrativas. Desenvolvido em JavaScript e TypeScript, com arquitetura MVC, o projeto prioriza organização e manutenibilidade do código. Todo o processo está documentado no GitHub, garantindo versionamento e controle.
 
@@ -466,10 +464,13 @@ Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-e
 
 ## 💡 Contribuições Pessoais
 
-Neste projeto, fui responsável pela implementação da interface do usuário utilizando **React** e **TypeScript**, criando uma plataforma dinâmica e responsiva. Além disso, contribui na criação do design do sistema com **Figma**, focando na organização e usabilidade das telas.
+Como membro do **DevTeam**, atuei diretamente na construção da interface e na definição das principais funcionalidades do sistema, garantindo uma experiência moderna, intuitiva e alinhada às necessidades do cliente. Entre minhas contribuições, destacam-se:
 
-Eu também participei da definição das funcionalidades do sistema, que inclui o gerenciamento de ordens de serviço, controle de clientes e veículos, além de permitir o agendamento e a visualização de reuniões. Trabalhei em estreita colaboração com os outros membros da equipe para garantir que a experiência do usuário fosse intuitiva e eficiente, alinhando as expectativas do cliente com as funcionalidades desenvolvidas.
-
+- Implementação da **interface do usuário com React e TypeScript**, criando componentes dinâmicos, responsivos e fáceis de manter.  
+- Participação no **design do sistema utilizando Figma**, definindo a organização das telas, padrões visuais e diretrizes de usabilidade.  
+- Contribuição na **definição das funcionalidades centrais**, incluindo gerenciamento de ordens de serviço, controle de clientes e veículos, e recursos de agendamento e visualização de reuniões.  
+- Colaboração ativa com a equipe para garantir que as entregas estivessem alinhadas às necessidades do cliente, promovendo uma experiência prática, fluida e coerente.  
+- Suporte à integração entre as diferentes partes do sistema, assegurando consistência e boa comunicação entre os módulos desenvolvidos.  
 
 ## 🛠️ Hard Skills
 
@@ -478,12 +479,11 @@ Eu também participei da definição das funcionalidades do sistema, que inclui 
 - **Controle de versão com GitHub** - Realizo com autonomia.
 - **Gerenciamento de projetos com Trello** - Realizo com autonomia.
 
-
 ## 🧠 Soft Skills
 
-- **Trabalho em equipe**: Colaborei de maneira eficaz com os membros da equipe, contribuindo para um bom andamento das tarefas e mantendo uma comunicação fluida para resolver problemas de desenvolvimento.
-- **Disposição para aprender**: Como estava aprendendo novas tecnologias, me dediquei a estudar e aplicar o que fosse necessário, garantindo minha contribuição no projeto.
-- **Comunicação**: Mantive um canal de comunicação aberto com a equipe e com o cliente, garantindo que as expectativas fossem atendidas e alinhadas ao longo do desenvolvimento do projeto.
+Ao longo do projeto, precisei exercitar bastante minha resiliência e manter uma postura positiva para garantir que as entregas fossem realizadas. Após a saída inesperada do **Product Owner** e a comunicação instável do cliente, surgiram dúvidas sobre as prioridades do produto e sobre quais funcionalidades realmente deveriam ser desenvolvidas. Esse cenário acabou impactando a primeira Sprint, que enfrentou diversos desafios.  
+
+Com o apoio da equipe, conseguimos reorganizar as tarefas, ajustar o escopo e direcionar nossos esforços para o que era viável dentro do prazo. Dessa forma, mesmo diante das dificuldades, conseguimos finalizar um sistema consistente. Também foi necessário desenvolver mais empatia para lidar com colegas que estavam tendo problemas em cumprir seus prazos. Por meio de reuniões semanais e alinhamentos constantes, conseguimos superar esses obstáculos e manter o andamento do projeto de forma colaborativa.
 
 > [Voltar ao topo](#topo)
 <span id='5'>
@@ -493,7 +493,7 @@ Eu também participei da definição das funcionalidades do sistema, que inclui 
 
 ### 📊 PROJETO
 
-**Colaboração:** Empresa GSW Software, oferece serviços de software, localizada em São José dos Campos, com os professores Ronaldo e Gerson como, respectivamente, M2 e P2.
+**Colaboração:** Empresa **GSW Software**, oferece serviços de software, localizada em São José dos Campos, com os professores Ronaldo e Gerson como, respectivamente, M2 e P2.
 
 **A empresa GWS Software propôs** o desenvolvimento de um aplicativo móvel para facilitar o processo de solicitação e controle de reembolsos corporativos. Utilizando tecnologias como Expo, Node.js e MongoDB, a solução foi pensada para proporcionar praticidade, precisão e centralização no registro das despesas, beneficiando tanto os colaboradores quanto os setores responsáveis pela análise e aprovação.
 
