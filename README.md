@@ -14,7 +14,7 @@
 
 <h2 align='center'>🌐 Introdução 🌐</h2>
 </div>
-   <img src="images/ErikZFerraz.png" height="260" align="left" style="margin-right: 15px; margin-bottom: 10px;"/>
+   <img src="IMG/ErikZFerraz.png" height="260" align="left" style="margin-right: 15px; margin-bottom: 10px;"/>
   <p style="text-align: justify;">
 Formando no curso de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, em São José dos Campos. Minha paixão pela tecnologia começou especialmente na criação de websites, softwares e jogos.
 
@@ -93,7 +93,7 @@ Estou comprometido com um processo contínuo de crescimento e sempre em busca de
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/ErikZFerraz/API_MirageGroup" target="_blank">aqui!</a>
 
-![Descrição da Imagem](https://github.com/ErikZFerraz/API_MirageGroup/blob/master/docs/mvp-sprint4.gif)
+<img src="IMG/System-Report.gif"/>
 
 <h1></h1>
 
@@ -199,7 +199,7 @@ Por ser recém-integrado à área, diferente dos colegas já familiarizados com 
 
 > Acesse o repositório desse projeto clicando <a href="https://github.com/ErikZFerraz/Code-Wave-2-API" target="_blank">aqui!</a>
 
-![Protótipo do Projeto](https://raw.githubusercontent.com/ErikZFerraz/Code-Wave-2-API/main/Front-end/src/to_readme/PROTOTIPO.png)
+<img src="IMG/IVA-langchain4j.png"/>
 
 <h1></h1>
 
@@ -299,7 +299,7 @@ Durante o projeto, aprimorei habilidades como comunicação e proatividade. A re
 
 > Acesse o repositório desse projeto clicando [aqui!](https://github.com/Code-Lotus/api-3)
 
-<img src="images/videoDashbord.gif"/>
+<img src="IMG/Pro4Tech-Dashbord.gif"/>
 
 <h1></h1>
 
@@ -401,7 +401,7 @@ Mantive também uma rotina de organização e priorização de tarefas, aplicand
 
 > Acesse o repositório desse projeto clicando [aqui!](https://github.com/DriftOps/API-IV)
 
-![Descrição da Imagem](https://raw.githubusercontent.com/DriftOps/API-IV/main/IMG/Projeto.gif)
+<img src="IMG/System-JJM.gif"/>
 
 <h1></h1>
 
@@ -509,7 +509,7 @@ Com o apoio da equipe, conseguimos reorganizar as tarefas, ajustar o escopo e di
 
 > Acesse o repositório deste projeto clicando [aqui!](https://github.com/DriftOps/API-V)
 
-<img src="images/Gif GSW.gif"/>
+<img src="IMG/System-GSW.gif"/>
 
 <h1></h1>
 
@@ -634,7 +634,7 @@ Além das funções de liderança, participei ativamente do desenvolvimento do *
 
 > Acesse o repositório deste projeto clicando [aqui!](https://github.com/DriftOps/API-VI)
 
-<img src="images/NutriX.png"/>
+<img src="IMG/NutriX.gif"/>
 
 <h1></h1>
 
